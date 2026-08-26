@@ -2,13 +2,13 @@ from icalendar import Calendar, Event
 from datetime import datetime
 import os
 
-
+#paths
 OUTPUT_DIR = "dist/calendars"
 ICS_FILE = os.path.join(OUTPUT_DIR, "boun_calendar.ics")
 
 def generate_cal(events):
 
-
+    #Calendar configuration
     cal = Calendar()
     cal.add('prodid', '-//Bogazici Calendar//bogazici.edu.tr//')
     cal.add('version', '2.0')
@@ -16,10 +16,11 @@ def generate_cal(events):
     cal.add('x-wr-timezone', 'Europe/Istanbul')
 
 
-
+    #Create an Event object for each item and add it to the calendar
     for e in events:
         event = Event()
 
+        #This uid is important. It prevents duplicating the events in the calendar.
         event.add('uid', f"boun-{e.id}@bogazici.edu.tr")  
         event.add('summary', e.adi)                       
         event.add('dtstamp', datetime.now())     

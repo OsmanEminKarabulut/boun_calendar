@@ -11,7 +11,7 @@ class EventModel:
         self.link = link
         self.kulup = kulup
 
-
+#To get only useful parts of the json and return an EventModel
 def jsonToEventModel(json):
     return EventModel(
         json["id"],
