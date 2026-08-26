@@ -1,0 +1,2569 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bogazici Calendar//bogazici.edu.tr//
+X-WR-CALNAME:Boğaziçi Üniversitesi Akademik Takvim
+X-WR-TIMEZONE:Europe/Istanbul
+BEGIN:VEVENT
+SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim ö
+ ğrencilerinin Bahar yarıyılı için son başvuru günü
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271014
+DTSTAMP:20260826T174837Z
+UID:boun-13480@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi
+ -misafir-ogrencilerin-ve-uluslara/13480
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Dönemi sonunda sonlanan II. Öğretim Yüksek Lisans Programl
+ arının Diploma Töreni
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270918
+DTSTAMP:20260826T174837Z
+UID:boun-13477@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-s
+ onunda-sonlanan-ii-ogretim-yuksek/13477
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yedek listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili 
+ programlara çevrim içi kayıt günü (10:00 – 23:59)
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270909
+DTSTAMP:20260826T174837Z
+UID:boun-14222@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listed
+ en-cap-ve-yan-dal-kabulu-alan-ogr/14222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili 
+ programlara çevrim içi kayıt günü (10:00 – 23:59)
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270908
+DTSTAMP:20260826T174837Z
+UID:boun-14219@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listede
+ n-cap-ve-yan-dal-kabulu-alan-ogre/14219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yedek listeden Lisans programlarına yurt dışından öğrenci ka
+ bulü kapsamında yerleştirilen öğrencilerin Üniversiteye kayıtları 
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+DTSTAMP:20260826T174837Z
+UID:boun-13475@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listed
+ en-lisans-programlarina-yurt-disi/13475
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fakültelerin ÇAP ve yan dal kabul kararlarını çevrim içi ba
+ şvuru sistemi üzerinden ilan etmesi için son gün
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270907
+DTSTAMP:20260826T174837Z
+UID:boun-14217@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/fakultelerin
+ -cap-ve-yan-dal-kabul-kararlarini/14217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yedek listeden lisansüstü programlara kabul edilen öğrencileri
+ n Üniversiteye kayıt günü
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270906
+DTSTAMP:20260826T174837Z
+UID:boun-13473@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listed
+ en-lisansustu-programlara-kabul-e/13473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asıl listeden Lisans programlarına yurt dışından öğrenci ka
+ bulü kapsamında yerleştirilen öğrencilerin Üniversiteye kayıtları
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270907
+DTSTAMP:20260826T174837Z
+UID:boun-13471@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listede
+ n-lisans-programlarina-yurt-disin/13471
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270903
+DTSTAMP:20260826T174837Z
+UID:boun-13469@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misa
+ fir-ve-yok-ozel-ogrenci-basvurusu/13469
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi puanla yatay geçiş kapsamında kabul edilen öğrenciler
+ in Üniversiteye kayıtları
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270902
+DTSTAMP:20260826T174837Z
+UID:boun-13467@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puan
+ la-yatay-gecis-kapsaminda-kabul-e/13467
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asıl listeden lisansüstü programlara kabul alan öğrencilerin 
+ Üniversiteye kayıt günü
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270903
+DTSTAMP:20260826T174837Z
+UID:boun-13465@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listede
+ n-lisansustu-programlara-kabul-al/13465
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zafer Bayramı (Tatil)
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270830
+DTSTAMP:20260826T174837Z
+UID:boun-13463@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/zafer-bayram
+ i-tatil/13463
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027/2028 I. yarıyılında açılan derslerin gün ve saat deği
+ şikliği gerektiği takdirde\, değişikliklerin birimler tarafından Ö
+ ğrenci İşleri Daire Başkanlığı'na bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270827
+DTSTAMP:20260826T174837Z
+UID:boun-13459@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/20272028-i-y
+ ariyilinda-acilan-derslerin-gun-v/13459
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi puanla yatay geçiş kabullerinin ilanı
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270827
+DTSTAMP:20260826T174837Z
+UID:boun-13461@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puan
+ la-yatay-gecis-kabullerinin-ilani/13461
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Ö
+ ğrenci İşleri Daire Başkanlığı'na bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270825
+DTSTAMP:20260826T174837Z
+UID:boun-13457@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-i
+ ngilizce-yeterlik-sinavi-buept-so/13457
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi yatay geçiş kabul kararları için ÜYK toplanması içi
+ n son gün 
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270825
+DTSTAMP:20260826T174837Z
+UID:boun-13455@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-yata
+ y-gecis-kabul-kararlari-icin-uyk-/13455
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270825
+DTSTAMP:20260826T174837Z
+UID:boun-13390@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-d
+ al-programlarina-basvurularin-son/13390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi yatay geçiş puanıyla başvuru yapanları değerlendirme
+ k üzere Komisyonun toplanması için son gün
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270820
+DTSTAMP:20260826T174837Z
+UID:boun-13453@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-yata
+ y-gecis-puaniyla-basvuru-yapanlar/13453
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğren
+ cilerinin Üniversiteye çevrimiçi kayıtları
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+DTSTAMP:20260826T174837Z
+UID:boun-13451@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi
+ -misafir-ogrenci-ve-uluslararasi-/13451
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270818
+DTSTAMP:20260826T174837Z
+UID:boun-13449@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gi
+ risi-icin-sistemin-kapanisi-2359/13449
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270825
+DTSTAMP:20260826T174837Z
+UID:boun-13348@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-d
+ al-programlarina-basvuru-donemi/13348
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270817
+DTSTAMP:20260826T174837Z
+UID:boun-13447@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-i
+ ngilizce-yeterlik-sinavi-buept/13447
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20260826T174837Z
+UID:boun-13443@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Program I Yaz Okulu derslerinin sonu
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20260826T174837Z
+UID:boun-13441@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-progr
+ am-i-yaz-okulu-derslerinin-sonu/13441
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yedek listeden kurum dışı yatay geçiş ile kabul edilen öğre
+ ncilerin Üniversiteye kayıt günü
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20260826T174837Z
+UID:boun-13437@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listed
+ en-kurum-disi-yatay-gecis-ile-kab/13437
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yedek listeden kurum içi yatay geçiş kabulü alan öğrencileri
+ n bölüm değişikliği için Fakülte Öğrenci İşleri sorumlularına 
+ başvuru günü
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20260826T174837Z
+UID:boun-13435@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listed
+ en-kurum-ici-yatay-gecis-kabulu-a/13435
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi dönem sonu sınavları 
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20260826T174837Z
+UID:boun-13433@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asıl listeden kurum içi yatay geçiş kabulü alan öğrencileri
+ n bölüm değişikliği için Fakülte Öğrenci İşleri sorumlularına 
+ başvuru günü
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270811
+DTSTAMP:20260826T174837Z
+UID:boun-13425@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listede
+ n-kurum-ici-yatay-gecis-kabulu-al/13425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asıl listeden kurum dışı yatay geçiş ile kabul edilen öğre
+ ncilerin Üniversiteye kayıt günü
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270811
+DTSTAMP:20260826T174837Z
+UID:boun-13427@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listede
+ n-kurum-disi-yatay-gecis-ile-kabu/13427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270811
+DTSTAMP:20260826T174837Z
+UID:boun-13431@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gi
+ risi-icin-sistemin-acilisi-1000/13431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili 
+ programlara kayıt için Fakülte Öğrenci İşleri sorumlularına başvu
+ ru günü
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270811
+DTSTAMP:20260826T174837Z
+UID:boun-13429@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listede
+ n-cap-ve-yan-dal-kabulu-alan-ogre/13429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders değerlendirme dönemi son günü (23:59)
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270810
+DTSTAMP:20260826T174837Z
+UID:boun-13422@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerle
+ ndirme-donemi-son-gunu-2359/13422
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi derslerinin son günü
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270810
+DTSTAMP:20260826T174837Z
+UID:boun-13420@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13420
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz Okulu Program II ve III derslerinin sonu
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270806
+DTSTAMP:20260826T174837Z
+UID:boun-13418@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-o
+ kulu-program-ii-ve-iii-derslerini/13418
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kurum içi ve dışı yatay geçiş kabul kararlarının Fakülte 
+ Öğrenci İşleri sorumlularına ve Öğrenci İşleri Daire Başkanlığ
+ ı'na bildirilmesi için son gün 
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270804
+DTSTAMP:20260826T174837Z
+UID:boun-13416@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve
+ -disi-yatay-gecis-kabul-kararlari/13416
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belir
+ lenen takvim)
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270816
+DTSTAMP:20260826T174837Z
+UID:boun-13414@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puan
+ la-yatay-gecis-basvurulari-yok-ta/13414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
+ ç)
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270810
+DTSTAMP:20260826T174837Z
+UID:boun-13412@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerle
+ ndirme-donemi-yadyok-hazirlik-oku/13412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi dersten çekilme dönemi için akademik kayıt sisteminin öğre
+ nci erişimine kapanışı (19:00)
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270730
+DTSTAMP:20260826T174837Z
+UID:boun-13408@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten 
+ çekilme dönemi için akademik kayıt sisteminin danışman erişimine ka
+ panışı (23:59)
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270730
+DTSTAMP:20260826T174837Z
+UID:boun-13410@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-y
+ uksek-lisans-programlarinin-yaz-d/13410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Dönemi ve II. Öğretim Yüksek Lisans Programlarının Yaz D
+ önemi dersten çekilme dönemi
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+DTSTAMP:20260826T174837Z
+UID:boun-13404@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-v
+ e-ii-ogretim-yuksek-lisans-progra/13404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi dersten çekilme dönemi için akademik kayıt sisteminin öğre
+ nci erişimine açılışı (10:00)
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270729
+DTSTAMP:20260826T174837Z
+UID:boun-13406@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi 
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20260826T174837Z
+UID:boun-13402@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusu
+ nda bulunan adayların bilim sınavları
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270726
+DTSTAMP:20260826T174837Z
+UID:boun-13400@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyili-icin-kurum-disi-yatay-gecis/13400
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusu
+ nda bulunan adayların bilim sınavları
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+DTSTAMP:20260826T174837Z
+UID:boun-13398@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyili-icin-kurum-disi-yatay-gecis/13398
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kurum içi ve dışı yatay geçiş başvuru dosyalarının progra
+ mlara gönderilmesi
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270721
+DTSTAMP:20260826T174837Z
+UID:boun-13394@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve
+ -disi-yatay-gecis-basvuru-dosyala/13394
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demokrasi ve Özgürlük Günü (Tatil)
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270715
+DTSTAMP:20260826T174837Z
+UID:boun-13392@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/demokrasi-ve
+ -ozgurluk-gunu-tatil/13392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enstitü Yönetim Kurullarının lisansüstü programların 2027 G
+ üz yarıyılına kabul kararlarının Enstitü Öğrenci İşleri sorumlu
+ larına ve Öğrenci İşleri Daire Başkanlığı'na bildirilmesi için s
+ on gün
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270714
+DTSTAMP:20260826T174837Z
+UID:boun-13386@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/enstitu-yone
+ tim-kurullarinin-lisansustu-progr/13386
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisansüstü programların 2027 Güz yarıyılına kabul kararlar
+ ının Enstitü Müdürlüklerine bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260826T174837Z
+UID:boun-13376@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-p
+ rogramlarin-2027-guz-yariyilina-k/13376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin da
+ nışman erişimine kapanışı (23:59)
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260826T174837Z
+UID:boun-13378@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13378
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisans programlarına yurt dışından öğrenci kabul kararların
+ ın ilanı 
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270708
+DTSTAMP:20260826T174837Z
+UID:boun-13388@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progr
+ amlarina-yurt-disindan-ogrenci-ka/13388
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı 
+ (22:00)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270708
+DTSTAMP:20260826T174837Z
+UID:boun-13372@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-c
+ onsent-sisteminin-ogretim-elemani/13372
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00) 
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270708
+DTSTAMP:20260826T174837Z
+UID:boun-13370@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-c
+ onsent-sisteminin-ogrenciye-kapan/13370
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin ö
+ ğrenci erişimine kapanışı (23:59)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270708
+DTSTAMP:20260826T174837Z
+UID:boun-13374@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270708
+DTSTAMP:20260826T174837Z
+UID:boun-13368@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-
+ sisteminin-kapanisi-1600/13368
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi ders ekleme/bırakma dönemi
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+DTSTAMP:20260826T174837Z
+UID:boun-13366@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13366
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for Second Education Masters Programs Summer S
+ ession add/drop opens to students (10:00)
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270707
+DTSTAMP:20260826T174837Z
+UID:boun-14216@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/registration
+ -system-for-second-education-mast/14216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin ö
+ ğrenci erişimine açılışı (10:00)
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270707
+DTSTAMP:20260826T174837Z
+UID:boun-14215@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/14215
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2028 Bahar yarıyılı için istenen ders programı değişiklikle
+ ri\, yeni program ve ders önerileri\, ders adı\, kodu ve/veya içerik de
+ ğişiklikleri ile ilgili yönetim kurulu kararlarının Rektörlüğe bil
+ dirilmesi için son gün
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270707
+DTSTAMP:20260826T174837Z
+UID:boun-13382@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2028-bahar-y
+ ariyili-icin-istenen-ders-program/13382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğren
+ cilerinin kabul kararlarının Öğrenci İşleri Daire Başkanlığı'na 
+ ve Uluslararası İlişkiler Genel Koordinatörlüğü'ne bildirilmesi iç
+ in son gün 
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270707
+DTSTAMP:20260826T174837Z
+UID:boun-13384@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi
+ -misafir-ogrenci-ve-uluslararasi-/13384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi ders ekleme/bırakma dönemi için ödeme sisteminin açılış
+ ı (10:00)
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270706
+DTSTAMP:20260826T174837Z
+UID:boun-13360@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13360
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK t
+ arafından belirlenen takvim)
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270716
+DTSTAMP:20260826T174837Z
+UID:boun-13380@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve
+ -disi-yatay-gecis-icin-basvuru-do/13380
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanma
+ sı
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270630
+DTSTAMP:20260826T174837Z
+UID:boun-13364@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-sonuclarini/13364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi derslerinin başlaması
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270630
+DTSTAMP:20260826T174837Z
+UID:boun-13352@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisans programlarına yurt dışından öğrenci kabul kararları 
+ için ÜYK toplanması için son gün
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270630
+DTSTAMP:20260826T174837Z
+UID:boun-13362@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progr
+ amlarina-yurt-disindan-ogrenci-ka/13362
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans P
+ rogramlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin d
+ anışmanların erişimine kapanışı (12:00)
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260826T174837Z
+UID:boun-13350@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -kesin-kayitlari-ve-ii-ogretim-yu/13350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisans programlarına yurt dışından öğrenci kabul kararları 
+ için Komisyonun toplanması için son gün
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260826T174837Z
+UID:boun-13322@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progr
+ amlarina-yurt-disindan-ogrenci-ka/13322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınav
+ ları
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270702
+DTSTAMP:20260826T174837Z
+UID:boun-13346@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-p
+ rogramlara-basvuru-yapan-adaylar-/13346
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık S
+ ınıfı için başvuru yapan adaylara)(10:00)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260826T174837Z
+UID:boun-13316@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-lisansustu-/13316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı 
+ (22:00)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260826T174837Z
+UID:boun-13342@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-c
+ onsent-sisteminin-ogretim-elemani/13342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2028 Bahar yarıyılında görevlendirilecek yabancı uyruklu öğ
+ retim üyesi önerilerinin Rektörlüğe bildirmesi için son gün
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260826T174837Z
+UID:boun-13358@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2028-bahar-y
+ ariyilinda-gorevlendirilecek-yaba/13358
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260826T174837Z
+UID:boun-13338@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-
+ sisteminin-kapanisi-1600/13338
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz Okulu derslerinin başlaması (tüm programlar için)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260826T174837Z
+UID:boun-13318@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-o
+ kulu-derslerinin-baslamasi-tum-pr/13318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans P
+ rogramlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin 
+ öğrenci erişimine kapanışı (23:59)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260826T174837Z
+UID:boun-13344@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -kesin-kayitlari-ve-ii-ogretim-yu/13344
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00) 
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260826T174837Z
+UID:boun-13340@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-c
+ onsent-sisteminin-ogrenciye-kapan/13340
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Öğre
+ nci İşleri Daire Başkanlığı'na bildirilmesi için son gün 
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270626
+DTSTAMP:20260826T174837Z
+UID:boun-13312@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingil
+ izce-yeterlik-sinavi-buept-sonucl/13312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans P
+ rogramlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin a
+ çılışı (10:00)
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260826T174837Z
+UID:boun-13336@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -kesin-kayitlari-ve-ii-ogretim-yu/13336
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans P
+ rogramlarının Yaz Dönemi kayıtları 
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260826T174837Z
+UID:boun-13334@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -kesin-kayitlari-ve-ii-ogretim-yu/13334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Lisans programlarına yurt dışından öğrenci kabul kararları
+ nın Rektörlüğe bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270625
+DTSTAMP:20260826T174837Z
+UID:boun-13356@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progr
+ amlarina-yurt-disindan-ogrenci-ka/13356
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I. ve II. Öğretim lisansüstü başvurularının programlara gö
+ nderilmesi için son gün
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270617
+DTSTAMP:20260826T174837Z
+UID:boun-13328@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-ve-ii-ogre
+ tim-lisansustu-basvurularinin-pro/13328
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisans programlarına yurt dışından öğrenci kabulü başvuru 
+ dosyalarının Fakültelere gönderilmesi
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270611
+DTSTAMP:20260826T174837Z
+UID:boun-13314@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progr
+ amlarina-yurt-disindan-ogrenci-ka/13314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I. ve II. Öğretim lisansüstü programları başvurularının so
+ n günü
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20260826T174837Z
+UID:boun-13305@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-ve-ii-ogre
+ tim-lisansustu-programlari-basvur/13305
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programları Yaz D
+ önemi için kayıt ödeme sisteminin açılışı (10:00)
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20260826T174837Z
+UID:boun-13309@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/13309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışında
+ n öğrenci kabulü başvurusu için son gün 
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270604
+DTSTAMP:20260826T174837Z
+UID:boun-13301@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-ak
+ ademik-yilinda-lisans-programlari/13301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim ö
+ ğrencilerinin Güz yarıyılı için son başvuru günü
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270604
+DTSTAMP:20260826T174837Z
+UID:boun-13299@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi
+ -misafir-ogrencilerin-ve-uluslara/13299
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mezuniyet Töreni
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270528
+DTSTAMP:20260826T174837Z
+UID:boun-13320@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-to
+ reni/13320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gençlik ve Spor Bayramı (Tatil)
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270519
+DTSTAMP:20260826T174837Z
+UID:boun-13285@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/genclik-ve-s
+ por-bayrami-tatil/13285
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kurban Bayramı (Tatil)
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270519
+DTSTAMP:20260826T174837Z
+UID:boun-13283@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurban-bayra
+ mi-tatil/13283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arife (Saat 13:00' dan sonra tatil)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270515
+DTSTAMP:20260826T174837Z
+UID:boun-13281@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/arife-saat-1
+ 300-dan-sonra-tatil/13281
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yönetim kurullarının mezuniyet kararı alması için son gün
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270512
+DTSTAMP:20260826T174837Z
+UID:boun-13354@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yonetim-kuru
+ llarinin-mezuniyet-karari-almasi-/13354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270511
+DTSTAMP:20260826T174837Z
+UID:boun-13297@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingil
+ izce-yeterlik-sinavi-buept/13297
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapan
+ ışı (23:59)
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20260826T174837Z
+UID:boun-13606@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ve
+ rilen-derslere-not-verme-islemi-i/13606
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açı
+ lması (10:00)
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20260826T174837Z
+UID:boun-13326@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ve
+ rilen-derslere-not-verme-islemi-i/13326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Not verme için sisteminin kapanışı (23:59)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260826T174837Z
+UID:boun-13324@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ic
+ in-sisteminin-kapanisi-2359/13324
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılında kurum içi ve dışı yatay geçiş ÇAP 
+ ve yan dal için başvuru koşulları (kontenjan\, ortalama ve benzeri) il
+ e bilim sınav tarihlerinin Öğrenci İşleri Daire Başkanlığı'na bil
+ dirilmesi için son gün
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260826T174837Z
+UID:boun-13266@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyilinda-kurum-ici-ve-disi-yatay-/13266
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23
+ :59)
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260826T174837Z
+UID:boun-13295@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK derslerinin son günü (tüm programlar için) 
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260826T174837Z
+UID:boun-13293@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-dersl
+ erinin-son-gunu-tum-programlar-ic/13293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E ve Mazeret Sınavları
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260826T174837Z
+UID:boun-13307@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret
+ -sinavlari/13307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mazeret Komisyonu Toplantısı (Saat 14:00)
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20260826T174837Z
+UID:boun-13303@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mazeret-komi
+ syonu-toplantisi-saat-1400/13303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılında verilecek tüm derslerin program önerile
+ rinin Fakülte\, Yüksekokul ve Enstitülerden Öğrenci İşleri Daire Ba
+ şkanlığı'na bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20260826T174837Z
+UID:boun-13258@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyilinda-verilecek-tum-derslerin-/13258
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emek ve Dayanışma günü (Tatil)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270501
+DTSTAMP:20260826T174837Z
+UID:boun-13256@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/emek-ve-daya
+ nisma-gunu-tatil/13256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yarıyıl sonu sınavları (25 Nisan 2027 Pazar günü 3. ve 4. sl
+ otlar Kültür ve Dil dersleri için kullanılacak.)
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20260826T174837Z
+UID:boun-13291@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu
+ -sinavlari-25-nisan-2027-pazar-gu/13291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları (25 Nisan 2027 Pa
+ zar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+DTSTAMP:20260826T174837Z
+UID:boun-13287@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-di
+ l-dersleri-hum-dahil-sinavlari-25/13287
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Not verme için sistemin açılışı (10:00)
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270424
+DTSTAMP:20260826T174837Z
+UID:boun-13289@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ic
+ in-sistemin-acilisi-1000/13289
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ulusal Egemenlik ve Çocuk Bayramı (Tatil)
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270423
+DTSTAMP:20260826T174837Z
+UID:boun-13252@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ulusal-egeme
+ nlik-ve-cocuk-bayrami-tatil/13252
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık 
+ Okulu dersleri hariç) 
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270423
+DTSTAMP:20260826T174837Z
+UID:boun-13279@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerle
+ ndirme-donemi-son-gunu-2359-yadyo/13279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Derslerin son günü
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270422
+DTSTAMP:20260826T174837Z
+UID:boun-13277@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-so
+ n-gunu/13277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi 
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260826T174837Z
+UID:boun-13260@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yarıyıl izni başvurusu için son gün
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270415
+DTSTAMP:20260826T174837Z
+UID:boun-13275@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni
+ -basvurusu-icin-son-gun/13275
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılı için I. öğretim lisansüstü programları
+ na başvuru dönemi
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20260826T174837Z
+UID:boun-13241@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyili-icin-i-ogretim-lisansustu-p/13241
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
+ ç)
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270423
+DTSTAMP:20260826T174837Z
+UID:boun-13254@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerle
+ ndirme-donemi-yadyok-hazirlik-oku/13254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:II. Öğretim Yüksek Lisans Programlarında Yaz Döneminde açıl
+ acak derslerin Öğrenci İşleri Daire Başkanlığı'na bildirilmesi iç
+ in son gün 
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20260826T174837Z
+UID:boun-13233@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-y
+ uksek-lisans-programlarinda-yaz-d/13233
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kayıt sisteminin öğrenci erişimine kapanışı (19:00)
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270409
+DTSTAMP:20260826T174837Z
+UID:boun-13604@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-sistem
+ inin-ogrenci-erisimine-kapanisi-1/13604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin kapanışı (16:00)
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270409
+DTSTAMP:20260826T174837Z
+UID:boun-13268@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -on-kayit-odeme-sisteminin-kapani/13268
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı 
+ (18:00)
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270409
+DTSTAMP:20260826T174837Z
+UID:boun-13272@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-c
+ onsent-sisteminin-ogretim-elemani/13272
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (16:00)
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270409
+DTSTAMP:20260826T174837Z
+UID:boun-13270@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-c
+ onsent-sisteminin-ogrenciye-kapan/13270
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi kayıtları için akademik kayıt sisteminin öğre
+ nci erişimine açılışı (10:00)
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270407
+DTSTAMP:20260826T174837Z
+UID:boun-13264@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -kayitlari-icin-akademik-kayit-si/13264
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ön kayıtları
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270409
+DTSTAMP:20260826T174837Z
+UID:boun-13262@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -on-kayitlari/13262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışında
+ n öğrenci kabulü için başvuru dönemi
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270604
+DTSTAMP:20260826T174837Z
+UID:boun-13227@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-ak
+ ademik-yilinda-lisans-programlari/13227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılı için II. Öğretim Yüksek Lisans Programla
+ rına başvuru dönemi
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20260826T174837Z
+UID:boun-13225@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyili-icin-ii-ogretim-yuksek-lisa/13225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enstitü Müdürlüklerinin tez dersleri (690\,790) ile ilgili şu
+ be değişikliklerini Enstitü Öğrenci İşleri sorumlularına ve Öğre
+ nci İşleri Daire Başkanlığı'na bildirmesi için son gün 
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270326
+DTSTAMP:20260826T174837Z
+UID:boun-13250@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/enstitu-mudu
+ rluklerinin-tez-dersleri-690790-i/13250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yarıyıl sonu sınav tarihlerinde yapılacak değişiklik öneril
+ erinin Rektörlüğe bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270326
+DTSTAMP:20260826T174837Z
+UID:boun-13247@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu
+ -sinav-tarihlerinde-yapilacak-deg/13247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman eriş
+ imine kapanışı (23:59)
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270326
+DTSTAMP:20260826T174837Z
+UID:boun-13245@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-ceki
+ lme-icin-akademik-kayit-sistemini/13245
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılı "kitle dersleri" program önerilerinin Öğr
+ enci İşleri Daire Başkanlığı'na bildirilmesi için son gün 
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270325
+DTSTAMP:20260826T174837Z
+UID:boun-13223@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyili-kitle-dersleri-program-oner/13223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt danışmanı ile görüşme günü
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260826T174837Z
+UID:boun-13239@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-danismani-ile-gorusme-gunu/13239
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişi
+ mine kapanışı (23:59)
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270325
+DTSTAMP:20260826T174837Z
+UID:boun-13243@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-ceki
+ lme-icin-akademik-kayit-sistemini/13243
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dersten çekilme dönemi
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270326
+DTSTAMP:20260826T174837Z
+UID:boun-13229@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-ceki
+ lme-donemi/13229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10
+ :00)
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20260826T174837Z
+UID:boun-13231@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-ceki
+ lme-icin-akademik-kayit-sistemini/13231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılı için istenen ders programı değişiklikler
+ i\, yeni program ve ders önerileri\, ders adı\, kodu ve/veya içerik de
+ ğişiklikleri ile ilgili yönetim kurulu kararlarının Rektörlüğe bil
+ dirilmesi için son gün
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270319
+DTSTAMP:20260826T174837Z
+UID:boun-13221@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyili-icin-istenen-ders-programi-/13221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretiminde açılacak derslerin ilan edilmesi
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20260826T174837Z
+UID:boun-13235@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ nde-acilacak-derslerin-ilan-edilm/13235
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin açılışı (10:00)
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20260826T174837Z
+UID:boun-13237@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -on-kayit-odeme-sisteminin-acilis/13237
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahar Tatili / Ramazan Bayramı (Tatil)
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270312
+DTSTAMP:20260826T174837Z
+UID:boun-13219@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili
+ -ramazan-bayrami-tatil/13219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin dan
+ ışman erişimine kapanışı (23:59)
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270128
+DTSTAMP:20260826T174837Z
+UID:boun-13217@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi-icin-akademik-kayit/13217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı 
+ Add/Drop (21:00)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270127
+DTSTAMP:20260826T174837Z
+UID:boun-13213@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-c
+ onsent-sisteminin-ogretim-elemani/13213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı Add/Drop 
+ (14:00)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270127
+DTSTAMP:20260826T174837Z
+UID:boun-14213@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-c
+ onsent-sisteminin-ogrenciye-kapan/14213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kayıt ödeme sisteminin kapanışı (17:00)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270127
+DTSTAMP:20260826T174837Z
+UID:boun-13602@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-
+ sisteminin-kapanisi-1700/13602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğ
+ renci erişimine kapanışı (23:59)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270127
+DTSTAMP:20260826T174837Z
+UID:boun-13215@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi-icin-akademik-kayit/13215
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin aç
+ ılışı (10:00)
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20260826T174837Z
+UID:boun-13209@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi-icin-akademik-kayit/13209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270127
+DTSTAMP:20260826T174837Z
+UID:boun-13207@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi/13207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılı için lisansüstü programların kontenjan 
+ önerileri ile bilim sınav tarihlerinin Öğrenci İşleri Daire Başkanl
+ ığı'na bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270121
+DTSTAMP:20260826T174837Z
+UID:boun-13159@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyili-icin-lisansustu-programlari/13159
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027-2028 Akademik Yılı için lisansüstü programlara asgari ba
+ şvuru koşullarının Öğrenci İşleri Daire  Başkanlığı'na bildiri
+ lmesi için son gün
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270121
+DTSTAMP:20260826T174837Z
+UID:boun-13157@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-ak
+ ademik-yili-icin-lisansustu-progr/13157
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Derslerin başlaması (YADYOK dersleri dahil)
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20260826T174837Z
+UID:boun-13205@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-ba
+ slamasi-yadyok-dersleri-dahil/13205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt sisteminin danışman erişimine kapanışı (23:5
+ 9)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260826T174837Z
+UID:boun-13203@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-sisteminin-danisman-erisimine-/13203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (14:00)
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270115
+DTSTAMP:20260826T174837Z
+UID:boun-13211@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-c
+ onsent-sisteminin-ogrenciye-kapan/13211
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (2
+ 1:00)
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270115
+DTSTAMP:20260826T174837Z
+UID:boun-13199@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-co
+ nsent-sisteminin-ogretim-elemanin/13199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59
+ )
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270115
+DTSTAMP:20260826T174837Z
+UID:boun-13201@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-sisteminin-ogrenci-erisimine-k/13201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretiminde görevlendirilecek yabancı uyruklu öğretim ü
+ yesi önerilerinin Rektörlüğe bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270115
+DTSTAMP:20260826T174837Z
+UID:boun-13141@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ nde-gorevlendirilecek-yabanci-uyr/13141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt danışmanı ile görüşme günü
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270114
+DTSTAMP:20260826T174837Z
+UID:boun-13195@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-danismani-ile-gorusme-gunu/13195
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Mo
+ leküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet 
+ sınavları
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270113
+DTSTAMP:20260826T174837Z
+UID:boun-13193@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progr
+ amlarina-yeni-baslayan-ogrenciler/13193
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270113
+DTSTAMP:20260826T174837Z
+UID:boun-13191@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-sisteminin-acilisi-1000/13191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Çevrimiçi kayıt dönemi
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270115
+DTSTAMP:20260826T174837Z
+UID:boun-13189@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cevrimici-ka
+ yit-donemi/13189
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yedek listeden kurum içi yatay geçiş kabulü alan öğrencileri
+ n bölüm değişikliği için Fakülte Öğrenci İşleri sorumlularına 
+ başvuru günü
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260826T174837Z
+UID:boun-14211@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listed
+ en-kurum-ici-yatay-gecis-kabulu-a/14211
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yedek listeden lisansüstü programlara kabul edilen öğrencileri
+ n Üniversiteye kayıt günü
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260826T174837Z
+UID:boun-13181@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listed
+ en-lisansustu-programlara-kabul-e/13181
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birimler tarafından kota girişleri ve danışman atama işlemler
+ inin tamamlanması için son gün (17:00)
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260826T174837Z
+UID:boun-13185@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/birimler-tar
+ afindan-kota-girisleri-ve-danisma/13185
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi
+  Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260826T174837Z
+UID:boun-13187@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogre
+ ncilerin-ve-degisim-ogrencilerini/13187
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu içi
+ n son gün
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20260826T174837Z
+UID:boun-13175@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misa
+ fir-ogrenci-ve-yok-ozel-ogrenci-b/13175
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kurum içi yatay geçiş kabulü alan öğrencilerin bölüm deği
+ şikliği için Fakülte Öğrenci İşleri sorumlularına başvuru günü
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20260826T174837Z
+UID:boun-13173@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ya
+ tay-gecis-kabulu-alan-ogrencileri/13173
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asıl listeden lisansüstü programlara kabul alan öğrencilerin 
+ Üniversiteye kayıt günü
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20260826T174837Z
+UID:boun-13171@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listede
+ n-lisansustu-programlara-kabul-al/13171
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uluslararası misafir öğrenci ve uluslararası değişim öğren
+ cilerinin Üniversiteye çevrimiçi kayıtları
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260826T174837Z
+UID:boun-13179@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi
+ -misafir-ogrenci-ve-uluslararasi-/13179
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yedek listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili 
+ programlara çevrim içi kayıt günü (10:00 – 23:59)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260826T174837Z
+UID:boun-13183@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listed
+ en-cap-ve-yan-dal-kabulu-alan-ogr/13183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili 
+ programlara çevrim içi kayıt günü (10:00 – 23:59)
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270109
+DTSTAMP:20260826T174837Z
+UID:boun-13177@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listede
+ n-cap-ve-yan-dal-kabulu-alan-ogre/13177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yönetim Kurullarının kurum içi yatay geçiş kabul kararların
+ ın Fakülte Öğrenci İşleri sorumlularına\, lisansüstü kabul kararl
+ arının Enstitü Öğrenci İşleri sorumlularına ve Öğrenci İşleri 
+ Daire Başkanlığına bildirmeleri için son gün
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270108
+DTSTAMP:20260826T174837Z
+UID:boun-13167@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yonetim-kuru
+ llarinin-kurum-ici-yatay-gecis-ka/13167
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fakültelerin ÇAP ve yan dal kabul kararlarını çevrim içi ba
+ şvuru sistemi üzerinden ilan etmesi için son gün
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270108
+DTSTAMP:20260826T174837Z
+UID:boun-14209@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/fakultelerin
+ -cap-ve-yan-dal-kabul-kararlarini/14209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270108
+DTSTAMP:20260826T174837Z
+UID:boun-13169@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-
+ sisteminin-acilisi-1000/13169
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Güz yarıyılında görevlendirilecek yabancı uyruklu öğr
+ etim üyesi önerilerinin Rektörlüğe bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20260826T174837Z
+UID:boun-13121@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yar
+ iyilinda-gorevlendirilecek-yabanc/13121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260826T174837Z
+UID:boun-13161@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-d
+ al-programlarina-basvuru-icin-son/13161
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yılbaşı (Tatil)
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260826T174837Z
+UID:boun-13119@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yilbasi-tati
+ l/13119
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Program I derslerinin son günü
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20260826T174837Z
+UID:boun-13143@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-progr
+ am-i-derslerinin-son-gunu/13143
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Öğre
+ nci İşleri Daire Başkanlığına bildirilmesi için son gün (14:00)
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20260826T174837Z
+UID:boun-13166@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingil
+ izce-yeterlik-sinavi-buept-sonucl/13166
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kurum içi yatay geçiş için başvuru dönemi
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20260826T174837Z
+UID:boun-13149@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ya
+ tay-gecis-icin-basvuru-donemi/13149
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yap
+ an adaylar için bilim sınavları
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20260826T174837Z
+UID:boun-14207@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-p
+ rogramlara-2027-bahar-yariyili-ic/14207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açı
+ lması (10:00)
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261228
+DTSTAMP:20260826T174837Z
+UID:boun-13151@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ve
+ rilen-derslere-not-verme-islemi-i/13151
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapan
+ ışı (23.59)
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261228
+DTSTAMP:20260826T174837Z
+UID:boun-13153@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ve
+ rilen-derslere-not-verme-islemi-i/13153
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20260826T174837Z
+UID:boun-13145@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gi
+ risi-icin-sistemin-kapanisi-2359/13145
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23
+ :59)
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260826T174837Z
+UID:boun-13125@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yap
+ an adaylar için bilim sınavları
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260826T174837Z
+UID:boun-13147@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-p
+ rogramlara-2027-bahar-yariyili-ic/13147
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260826T174837Z
+UID:boun-13131@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingil
+ izce-yeterlik-sinavi-buept/13131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanma
+ sı
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260826T174837Z
+UID:boun-13139@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-sonuclarini/13139
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Program II\, III\, IV derslerinin son günü
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260826T174837Z
+UID:boun-13123@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-progr
+ am-ii-iii-iv-derslerinin-son-gunu/13123
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık S
+ ınıfı için başvuru yapan adaylara)(10:00)
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260826T174837Z
+UID:boun-13137@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-lisansustu-/13137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E ve Mazeret Sınavları
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260826T174837Z
+UID:boun-13133@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret
+ -sinavlari/13133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisansüstü başvurularının programlara gönderilmesi için son
+  gün
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260826T174837Z
+UID:boun-13135@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-b
+ asvurularinin-programlara-gonderi/13135
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mazeret Komisyonu Toplantısı (Saat 13:30)
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260826T174837Z
+UID:boun-13127@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mazeret-komi
+ syonu-toplantisi-saat-1330/13127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260826T174837Z
+UID:boun-13129@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-d
+ al-programlarina-basvuru-donemi/13129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026/2027 II. yarıyılında açılan derslerin gün ve saat deği
+ şikliği gerektiği takdirde\, değişikliklerin birimler tarafından Ö
+ ğrenci İşleri Daire Başkanlığı'na bildirilmesi için son gün 
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261216
+DTSTAMP:20260826T174837Z
+UID:boun-13155@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/20262027-ii-
+ yariyilinda-acilan-derslerin-gun-/13155
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20260826T174837Z
+UID:boun-13117@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyi
+ li-icin-lisansustu-programlara-ba/13117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yarıyıl sonu sınavları (13 Aralık 2026 Pazar günü 3. ve 4. 
+ slotlar Kültür ve Dil dersleri için kullanılacak.)
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260826T174837Z
+UID:boun-13111@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu
+ -sinavlari-13-aralik-2026-pazar-g/13111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kültür ve dil dersleri (HUM dersleri dahil) yarıyıl sonu sına
+ vları (13 Aralık 2026 Pazar günü 3. ve 4. slotlar Kültür ve Dil ders
+ leri için kullanılacak.)
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260826T174837Z
+UID:boun-13107@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-di
+ l-dersleri-hum-dersleri-dahil-yar/13107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260826T174837Z
+UID:boun-13109@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gi
+ risi-icin-sistemin-acilisi-1000/13109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık
+  Okulu dersleri hariç) 
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260826T174837Z
+UID:boun-13103@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerle
+ ndirme-donemi-son-gunu-2359-yadyo/13103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretiminde açılacak derslerin Öğrenci İşleri Daire Ba
+ şkanlığı'na bildirilmesi için son gün
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260826T174837Z
+UID:boun-13099@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ nde-acilacak-derslerin-ogrenci-is/13099
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Derslerin son günü
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260826T174837Z
+UID:boun-13101@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-so
+ n-gunu/13101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260826T174837Z
+UID:boun-13105@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yarıyıl izni başvurusu için son gün
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20260826T174837Z
+UID:boun-13097@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni
+ -basvurusu-icin-son-gun/13097
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğren
+ cilerinin kabul kararlarının Öğrenci İşleri Daire Başkanlığı'na 
+ ve Uluslararası İlişkiler Genel Koordinatörlüğü'ne bildirilmesi iç
+ in son gün 
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20260826T174837Z
+UID:boun-13090@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi
+ -misafir-ogrenci-ve-uluslararasi-/13090
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
+ ç)
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260826T174837Z
+UID:boun-13095@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerle
+ ndirme-donemi-yadyok-hazirlik-oku/13095
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enstitü Müdürlüklerinin tez dersleri (690\,790) ile ilgili şu
+ be değişikliklerini Enstitü Öğrenci İşleri sorumlularına ve Öğre
+ nci İşleri Daire Başkanlığı'na bildirmesi için son gün 
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260826T174837Z
+UID:boun-13249@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/enstitu-mudu
+ rluklerinin-tez-dersleri-690790-i/13249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yarıyıl sonu sınav tarihlerinde yapılacak değişiklik öneril
+ erinin Rektörlüğe bildirilmesi için son gün
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260826T174837Z
+UID:boun-13083@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu
+ -sinav-tarihlerinde-yapilacak-deg/13083
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman eriş
+ imine kapanışı (23:59)
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20260826T174837Z
+UID:boun-13088@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-ceki
+ lme-icin-akademik-kayit-sistemini/13088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişi
+ mine kapanışı (23:59)
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20260826T174837Z
+UID:boun-13081@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-ceki
+ lme-icin-akademik-kayit-sistemini/13081
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atatürk'ü anma günü
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260826T174837Z
+UID:boun-13059@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ataturku-anm
+ a-gunu/13059
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt danışmanı ile görüşme günü
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260826T174837Z
+UID:boun-13079@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-danismani-ile-gorusme-gunu/13079
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10
+ :00)
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20260826T174837Z
+UID:boun-13077@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-ceki
+ lme-icin-akademik-kayit-sistemini/13077
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dersten çekilme dönemi
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20260826T174837Z
+UID:boun-13075@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-ceki
+ lme-donemi/13075
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahar yarıyılında açılacak tüm derslerin gün ve saat öneri
+ lerinin Öğrenci İşleri Daire Başkanlığı'na bildirilmesi için son 
+ gün
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20260826T174837Z
+UID:boun-13061@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyi
+ linda-acilacak-tum-derslerin-gun-/13061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cumhuriyet Bayramı (Tatil)
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260826T174837Z
+UID:boun-13053@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cumhuriyet-b
+ ayrami-tatil/13053
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saat 13:00'den sonra tatil
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20260826T174837Z
+UID:boun-13051@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/saat-1300den
+ -sonra-tatil/13051
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahar yarıyılı için kurum içi yatay geçiş ÇAP ve yan dal a
+ sgari başvuru koşulları ve kontenjanların Öğrenci İşleri Daire Ba
+ şkanlığı'na bildirilmesi için son gün 
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260826T174837Z
+UID:boun-13063@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyi
+ li-icin-kurum-ici-yatay-gecis-cap/13063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2027 Bahar yarıyılı için lisansüstü programların kontenjan 
+ önerileri ile bilim sınav tarihlerinin Öğrenci İşleri Daire Başkanl
+ ığı'na bildirilmesi için son gün
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20260826T174837Z
+UID:boun-13094@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-bahar-y
+ ariyili-icin-lisansustu-programla/13094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim ö
+ ğrencilerinin Bahar yarıyılı için son başvuru günü
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260826T174837Z
+UID:boun-9242@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi
+ -misafir-ogrencilerin-ve-uluslara/9242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahar yarıyılında açılacak kitle dersleri için gün ve saat 
+ önerilerinin Öğrenci İşleri Daire Başkanlığı'na bildirilmesinin s
+ on günü
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20260826T174837Z
+UID:boun-13049@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyi
+ linda-acilacak-kitle-dersleri-ici/13049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin dan
+ ışman erişimine kapanışı (23:59)
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260826T174837Z
+UID:boun-13047@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi-icin-akademik-kayit/13047
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğ
+ renci erişimine kapanışı (23:59)
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260826T174837Z
+UID:boun-13045@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi-icin-akademik-kayit/13045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi ders onay (consent) sisteminin öğre
+ tim elemanına kapanışı (21:00)
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260826T174837Z
+UID:boun-13043@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi-ders-onay-consent-s/13043
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kayıt ödeme sisteminin kapanışı (17:00)
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260826T174837Z
+UID:boun-13039@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-
+ sisteminin-kapanisi-1700/13039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi ders onay (consent) sisteminin öğre
+ nciye kapanışı (14:00)
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260826T174837Z
+UID:boun-13041@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi-ders-onay-consent-s/13041
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin aç
+ ılışı (10:00)
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260826T174837Z
+UID:boun-13035@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi-icin-akademik-kayit/13035
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt danışmanı ile görüşme günü
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260826T174837Z
+UID:boun-13037@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-danismani-ile-gorusme-gunu/13037
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders ekleme/bırakma dönemi
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260826T174837Z
+UID:boun-13033@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemeb
+ irakma-donemi/13033
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK derslerinin başlaması
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260826T174837Z
+UID:boun-13031@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-dersl
+ erinin-baslamasi/13031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanma
+ sı
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260826T174837Z
+UID:boun-13029@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-sonuclarini/13029
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Üniversiteyi Tanıma Günleri
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260826T174837Z
+UID:boun-13027@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/universiteyi
+ -tanima-gunleri/13027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (10:00)
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260826T174837Z
+UID:boun-13025@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-1000/13025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Derslerin başlaması (YADYOK hariç)
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260826T174837Z
+UID:boun-13023@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-ba
+ slamasi-yadyok-haric/13023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Dönemi sonunda sonlanan II. Öğretim Yüksek Lisans Programl
+ arının Diploma Töreni
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260826T174837Z
+UID:boun-9241@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-s
+ onunda-sonlanan-ii-ogretim-yuksek/9241
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Mo
+ leküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet 
+ sınavları
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260826T174837Z
+UID:boun-13021@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progr
+ amlarina-yeni-baslayan-ogrenciler/13021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt sisteminin danışman erişimine kapanışı (23:5
+ 9)
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260826T174837Z
+UID:boun-13019@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-sisteminin-danisman-erisimine-/13019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59
+ )
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260826T174837Z
+UID:boun-13017@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-sisteminin-ogrenci-erisimine-k/13017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (2
+ 1:00)
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260826T174837Z
+UID:boun-13015@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-co
+ nsent-sisteminin-ogretim-elemanin/13015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260826T174837Z
+UID:boun-13013@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-co
+ nsent-sisteminin-ogrenciye-kapani/13013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt danışmanı ile görüşme günü
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20260826T174837Z
+UID:boun-13011@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-danismani-ile-gorusme-gunu/13011
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Çevrimiçi kayıt dönemi
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260826T174837Z
+UID:boun-13007@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cevrimici-ka
+ yit-donemi/13007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260826T174837Z
+UID:boun-13009@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kay
+ it-sisteminin-acilisi-1000/13009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının K
+ ayıt İşleri Şube Müdürlüğüne bildirilmesi için son gün (15:00)
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260826T174837Z
+UID:boun-13001@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-i
+ ngilizce-yeterlik-sinavi-buept-so/13001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birimler tarafından kota girişleri ve danışman atama işlemler
+ inin tamamlanması için son gün (17:00)
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260826T174837Z
+UID:boun-13005@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/birimler-tar
+ afindan-kota-girisleri-ve-danisma/13005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi
+  Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260826T174837Z
+UID:boun-13003@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogre
+ ncilerin-ve-degisim-ogrencilerini/13003
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:İkinci başvuru döneminde yedek listeden Lisans programlarına y
+ urt dışından öğrenci kabulü kapsamında yerleştirilen öğrencileri
+ n Üniversiteye kayıtları 
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+DTSTAMP:20260826T174837Z
+UID:boun-13954@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ikinci-basvu
+ ru-doneminde-yedek-listeden-lisan/13954
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260826T174837Z
+UID:boun-12998@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-
+ sisteminin-acilisi-1000/12998
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260907
+DTSTAMP:20260826T174837Z
+UID:boun-12997@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-i
+ ngilizce-yeterlik-sinavi-buept/12997
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260904
+DTSTAMP:20260826T174837Z
+UID:boun-9239@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misa
+ fir-ve-yok-ozel-ogrenci-basvurusu/9239
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisansüstü programlara yedek listeden kabul edilen öğrencileri
+ n üniversiteye kayıtları
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260904
+DTSTAMP:20260826T174837Z
+UID:boun-9238@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-p
+ rogramlara-yedek-listeden-kabul-e/9238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:İkinci başvuru döneminde asıl listeden Lisans programlarına y
+ urt dışından öğrenci kabulü kapsamında yerleştirilen öğrencileri
+ n Üniversiteye kayıtları
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260826T174837Z
+UID:boun-13953@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ikinci-basvu
+ ru-doneminde-asil-listeden-lisans/13953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi puanla yatay geçiş kapsamında kabul edilen öğrenciler
+ in Üniversiteye kayıtları
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260903
+DTSTAMP:20260826T174837Z
+UID:boun-9236@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puan
+ la-yatay-gecis-kapsaminda-kabul-e/9236
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisansüstü programlara asıl listeden kabul edilen öğrencileri
+ n üniversiteye kayıtları
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260903
+DTSTAMP:20260826T174837Z
+UID:boun-9235@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-p
+ rogramlara-asil-listeden-kabul-ed/9235
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi puanla yatay geçiş kabullerinin ilanı
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260826T174837Z
+UID:boun-9234@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puan
+ la-yatay-gecis-kabullerinin-ilani/9234
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zafer Bayramı (Tatil)
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260830
+DTSTAMP:20260826T174837Z
+UID:boun-9233@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/zafer-bayram
+ i-tatil/9233
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026/2027 I. yarıyılında açılan derslerin gün ve saat deği
+ şikliği gerektiği takdirde\, değişikliklerin birimler tarafından Ö
+ ğrenci İşleri Daire Başkanlığı’na bildirilmesi için son gün 
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260826T174837Z
+UID:boun-9232@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/20262027-i-y
+ ariyilinda-acilan-derslerin-gun-v/9232
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi yatay geçiş kabul kararları için ÜYK toplanması içi
+ n son gün 
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260826T174837Z
+UID:boun-9231@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-yata
+ y-gecis-kabul-kararlari-icin-uyk-/9231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Ö
+ ğrenci İşleri Daire Başkanlığı’na bildirilmesi için son gün
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260826T174837Z
+UID:boun-9230@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-i
+ ngilizce-yeterlik-sinavi-buept-so/9230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi yatay geçiş puanıyla başvuru yapanları değerlendirme
+ k üzere Komisyonun toplanması için son gün
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260826T174837Z
+UID:boun-9229@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-yata
+ y-gecis-puaniyla-basvuru-yapanlar/9229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+DTSTAMP:20260826T174837Z
+UID:boun-9228@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gi
+ risi-icin-sistemin-kapanisi-2359/9228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğren
+ cilerinin Üniversiteye çevrimiçi kayıtları
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260826T174837Z
+UID:boun-9227@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi
+ -misafir-ogrenci-ve-uluslararasi-/9227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20260826T174837Z
+UID:boun-9226@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-i
+ ngilizce-yeterlik-sinavi-buept/9226
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Program I Yaz Okulu derslerinin sonu
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260826T174837Z
+UID:boun-9224@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-progr
+ am-i-yaz-okulu-derslerinin-sonu/9224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: İkinci başvuru döneminde lisans programlarına yurt dışında
+ n öğrenci kabul kararlarının ilan edilmesi
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260826T174837Z
+UID:boun-13952@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ikinci-basvu
+ ru-doneminde-lisans-programlarina/13952
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi dönem sonu sınavları
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260826T174837Z
+UID:boun-9223@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/9223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260826T174837Z
+UID:boun-9222@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gi
+ risi-icin-sistemin-acilisi-1000/9222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders değerlendirme dönemi son günü (23:59)
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260812
+DTSTAMP:20260826T174837Z
+UID:boun-9221@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerle
+ ndirme-donemi-son-gunu-2359/9221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
+ z Dönemi derslerinin son günü
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260812
+DTSTAMP:20260826T174837Z
+UID:boun-9220@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi
+ -ve-ii-ogretim-yuksek-lisans-prog/9220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:İkinci başvuru döneminde lisans programlarına yurt dışından
+  öğrenci kabul kararları için ÜYK toplanması için son gün
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260812
+DTSTAMP:20260826T174837Z
+UID:boun-13951@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ikinci-basvu
+ ru-doneminde-lisans-programlarina/13951
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belir
+ lenen takvim)
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260826T174837Z
+UID:boun-9209@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puan
+ la-yatay-gecis-basvurulari-yok-ta/9209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260812
+DTSTAMP:20260826T174837Z
+UID:boun-9208@bogazici.edu.tr
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerle
+ ndirme-donemi-yadyok-hazirlik-oku/9208
+END:VEVENT
+END:VCALENDAR

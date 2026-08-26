@@ -1,0 +1,12 @@
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+.python-version
+
+# Sanal ortam
+venv/
+.env
+
+# Editör ayarları
+.vscode/
+.idea/
