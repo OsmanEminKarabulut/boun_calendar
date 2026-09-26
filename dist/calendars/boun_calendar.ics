@@ -8,7 +8,7 @@ SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim ö
  ğrencilerinin Bahar yarıyılı için son başvuru günü
 DTSTART;VALUE=DATE:20271014
 DTEND;VALUE=DATE:20271015
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13480@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/13
@@ -21,7 +21,7 @@ SUMMARY:Yaz Dönemi sonunda sonlanan II. Öğretim Yüksek Lisans Programl
  arının Diploma Töreni
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13477@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-donemi-sonunda-sonlanan-ii-ogretim-yuksek/1347
@@ -34,7 +34,7 @@ SUMMARY:Yedek listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili
  programlara çevrim içi kayıt günü (10:00 – 23:59)
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-14222@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-cap-ve-yan-dal-kabulu-alan-ogr/1422
@@ -47,7 +47,7 @@ SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili
  programlara çevrim içi kayıt günü (10:00 – 23:59)
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-14219@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-cap-ve-yan-dal-kabulu-alan-ogre/1421
@@ -60,7 +60,7 @@ SUMMARY:Yedek listeden Lisans programlarına yurt dışından öğrenci ka
  bulü kapsamında yerleştirilen öğrencilerin Üniversiteye kayıtları 
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270910
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13475@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-lisans-programlarina-yurt-disi/1347
@@ -73,7 +73,7 @@ SUMMARY:Fakültelerin ÇAP ve yan dal kabul kararlarını çevrim içi ba
  şvuru sistemi üzerinden ilan etmesi için son gün
 DTSTART;VALUE=DATE:20270907
 DTEND;VALUE=DATE:20270908
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-14217@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/fakultelerin-cap-ve-yan-dal-kabul-kararlarini/1421
@@ -86,7 +86,7 @@ SUMMARY:Yedek listeden lisansüstü programlara kabul edilen öğrencileri
  n Üniversiteye kayıt günü
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13473@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-lisansustu-programlara-kabul-e/1347
@@ -99,7 +99,7 @@ SUMMARY:Asıl listeden Lisans programlarına yurt dışından öğrenci ka
  bulü kapsamında yerleştirilen öğrencilerin Üniversiteye kayıtları
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270908
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13471@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-lisans-programlarina-yurt-disin/1347
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13469@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/13
@@ -124,7 +124,7 @@ SUMMARY:Merkezi puanla yatay geçiş kapsamında kabul edilen öğrenciler
  in Üniversiteye kayıtları
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13467@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-kapsaminda-kabul-e/1346
@@ -137,7 +137,7 @@ SUMMARY:Asıl listeden lisansüstü programlara kabul alan öğrencilerin
  Üniversiteye kayıt günü
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270904
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13465@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-lisansustu-programlara-kabul-al/1346
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Zafer Bayramı (Tatil)
 DTSTART;VALUE=DATE:20270830
 DTEND;VALUE=DATE:20270831
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13463@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/zafer-bayrami-tatil/13463
@@ -162,7 +162,7 @@ SUMMARY:2027/2028 I. yarıyılında açılan derslerin gün ve saat deği
  ğrenci İşleri Daire Başkanlığı'na bildirilmesi için son gün
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270828
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13459@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/20272028-i-yariyilinda-acilan-derslerin-gun-v/1345
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Merkezi puanla yatay geçiş kabullerinin ilanı
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270828
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13461@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-kabullerinin-ilani/1346
@@ -187,7 +187,7 @@ SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Ö
  ğrenci İşleri Daire Başkanlığı'na bildirilmesi için son gün
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13457@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/1345
@@ -200,7 +200,7 @@ SUMMARY:Merkezi yatay geçiş kabul kararları için ÜYK toplanması içi
  n son gün 
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13455@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/merkezi-yatay-gecis-kabul-kararlari-icin-uyk-/1345
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13390@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/13
@@ -225,7 +225,7 @@ SUMMARY:Merkezi yatay geçiş puanıyla başvuru yapanları değerlendirme
  k üzere Komisyonun toplanması için son gün
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270821
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13453@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/merkezi-yatay-gecis-puaniyla-basvuru-yapanlar/1345
@@ -238,7 +238,7 @@ SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğren
  cilerinin Üniversiteye çevrimiçi kayıtları
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270821
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13451@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/1345
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13449@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi
@@ -262,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270826
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13348@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/1334
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT)
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13447@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/13447
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13443@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1344
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Program I Yaz Okulu derslerinin sonu
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13441@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-program-i-yaz-okulu-derslerinin-sonu/13441
@@ -309,7 +309,7 @@ SUMMARY:Yedek listeden kurum dışı yatay geçiş ile kabul edilen öğre
  ncilerin Üniversiteye kayıt günü
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13437@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-kurum-disi-yatay-gecis-ile-kab/1343
@@ -323,7 +323,7 @@ SUMMARY:Yedek listeden kurum içi yatay geçiş kabulü alan öğrencileri
  başvuru günü
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13435@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-kurum-ici-yatay-gecis-kabulu-a/1343
@@ -336,7 +336,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  z Dönemi dönem sonu sınavları 
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13433@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisan
@@ -350,7 +350,7 @@ SUMMARY:Asıl listeden kurum içi yatay geçiş kabulü alan öğrencileri
  başvuru günü
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13425@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-kurum-ici-yatay-gecis-kabulu-al/1342
@@ -363,7 +363,7 @@ SUMMARY:Asıl listeden kurum dışı yatay geçiş ile kabul edilen öğre
  ncilerin Üniversiteye kayıt günü
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13427@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-kurum-disi-yatay-gecis-ile-kabu/1342
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13431@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-
@@ -389,7 +389,7 @@ SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili
  ru günü
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13429@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-cap-ve-yan-dal-kabulu-alan-ogre/1342
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Ders değerlendirme dönemi son günü (23:59)
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13422@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359
@@ -414,7 +414,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  z Dönemi derslerinin son günü
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13420@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisan
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Yaz Okulu Program II ve III derslerinin sonu
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13418@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-yaz-okulu-program-ii-ve-iii-derslerini/1341
@@ -440,7 +440,7 @@ SUMMARY:Kurum içi ve dışı yatay geçiş kabul kararlarının Fakülte
  ı'na bildirilmesi için son gün 
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13416@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-kabul-kararlari/1341
@@ -453,7 +453,7 @@ SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belir
  lenen takvim)
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270817
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13414@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/13
@@ -466,7 +466,7 @@ SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
  ç)
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270811
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13412@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirl
@@ -480,7 +480,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  nci erişimine kapanışı (19:00)
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13408@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/1340
@@ -494,7 +494,7 @@ SUMMARY:II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten
  panışı (23:59)
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13410@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ii-ogretim-yuksek-lisans-programlarinin-yaz-d/1341
@@ -507,7 +507,7 @@ SUMMARY:Yaz Dönemi ve II. Öğretim Yüksek Lisans Programlarının Yaz D
  önemi dersten çekilme dönemi
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270731
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13404@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-donemi-ve-ii-ogretim-yuksek-lisans-progra/1340
@@ -521,7 +521,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  nci erişimine açılışı (10:00)
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13406@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/1340
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi 
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13402@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1340
@@ -546,7 +546,7 @@ SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusu
  nda bulunan adayların bilim sınavları
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13400@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-kurum-disi-yatay
@@ -559,7 +559,7 @@ SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusu
  nda bulunan adayların bilim sınavları
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270724
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13398@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-kurum-disi-yatay
@@ -572,7 +572,7 @@ SUMMARY:Kurum içi ve dışı yatay geçiş başvuru dosyalarının progra
  mlara gönderilmesi
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13394@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-basvuru-dosyala/1339
@@ -584,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:Demokrasi ve Özgürlük Günü (Tatil)
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13392@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/demokrasi-ve-ozgurluk-gunu-tatil/13392
@@ -598,7 +598,7 @@ SUMMARY:Enstitü Yönetim Kurullarının lisansüstü programların 2027 G
  on gün
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13386@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/enstitu-yonetim-kurullarinin-lisansustu-progr/1338
@@ -611,7 +611,7 @@ SUMMARY:Lisansüstü programların 2027 Güz yarıyılına kabul kararlar
  ının Enstitü Müdürlüklerine bildirilmesi için son gün
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13376@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/lisansustu-programlarin-2027-guz-yariyilina-k/1337
@@ -625,7 +625,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  nışman erişimine kapanışı (23:59)
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13378@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/1337
@@ -638,7 +638,7 @@ SUMMARY:Lisans programlarına yurt dışından öğrenci kabul kararların
  ın ilanı 
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13388@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/lisans-programlarina-yurt-disindan-ogrenci-ka/1338
@@ -651,7 +651,7 @@ SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı
  (22:00)
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13372@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/1337
@@ -663,7 +663,7 @@ BEGIN:VEVENT
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00) 
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13370@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/1337
@@ -677,7 +677,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  ğrenci erişimine kapanışı (23:59)
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13374@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/1337
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13368@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/13368
@@ -701,7 +701,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  z Dönemi ders ekleme/bırakma dönemi
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270709
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13366@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/1336
@@ -714,7 +714,7 @@ SUMMARY:Registration system for Second Education Masters Programs Summer S
  ession add/drop opens to students (10:00)
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-14216@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/registration-system-for-second-education-mast/1421
@@ -728,7 +728,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  ğrenci erişimine açılışı (10:00)
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-14215@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/1421
@@ -743,7 +743,7 @@ SUMMARY:2028 Bahar yarıyılı için istenen ders programı değişiklikle
  dirilmesi için son gün
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13382@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2028-bahar-yariyili-icin-istenen-ders-program/1338
@@ -758,7 +758,7 @@ SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğren
  in son gün 
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13384@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/1338
@@ -772,7 +772,7 @@ SUMMARY:Yaz öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  ı (10:00)
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270707
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13360@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/1336
@@ -785,7 +785,7 @@ SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK t
  arafından belirlenen takvim)
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270717
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13380@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/13
@@ -798,7 +798,7 @@ SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanma
  sı
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13364@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/1336
@@ -811,7 +811,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  z Dönemi derslerinin başlaması
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13352@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisan
@@ -824,7 +824,7 @@ SUMMARY:Lisans programlarına yurt dışından öğrenci kabul kararları
  için ÜYK toplanması için son gün
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13362@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/lisans-programlarina-yurt-disindan-ogrenci-ka/1336
@@ -838,7 +838,7 @@ SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans P
  anışmanların erişimine kapanışı (12:00)
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13350@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/1335
@@ -851,7 +851,7 @@ SUMMARY:Lisans programlarına yurt dışından öğrenci kabul kararları
  için Komisyonun toplanması için son gün
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13322@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/lisans-programlarina-yurt-disindan-ogrenci-ka/1332
@@ -864,7 +864,7 @@ SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınav
  ları
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13346@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-ad
@@ -877,7 +877,7 @@ SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık S
  ınıfı için başvuru yapan adaylara)(10:00)
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13316@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/1331
@@ -890,7 +890,7 @@ SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı
  (22:00)
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13342@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/1334
@@ -903,7 +903,7 @@ SUMMARY:2028 Bahar yarıyılında görevlendirilecek yabancı uyruklu öğ
  retim üyesi önerilerinin Rektörlüğe bildirmesi için son gün
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13358@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2028-bahar-yariyilinda-gorevlendirilecek-yaba/1335
@@ -915,7 +915,7 @@ BEGIN:VEVENT
 SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13338@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/13338
@@ -926,7 +926,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Yaz Okulu derslerinin başlaması (tüm programlar için)
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13318@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-yaz-okulu-derslerinin-baslamasi-tum-pr/1331
@@ -940,7 +940,7 @@ SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans P
  öğrenci erişimine kapanışı (23:59)
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13344@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/1334
@@ -952,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00) 
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13340@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/1334
@@ -965,7 +965,7 @@ SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Öğre
  nci İşleri Daire Başkanlığı'na bildirilmesi için son gün 
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13312@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept-sonucl/1331
@@ -979,7 +979,7 @@ SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans P
  çılışı (10:00)
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13336@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/1333
@@ -992,7 +992,7 @@ SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans P
  rogramlarının Yaz Dönemi kayıtları 
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13334@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/1333
@@ -1005,7 +1005,7 @@ SUMMARY: Lisans programlarına yurt dışından öğrenci kabul kararları
  nın Rektörlüğe bildirilmesi için son gün
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13356@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/lisans-programlarina-yurt-disindan-ogrenci-ka/1335
@@ -1018,7 +1018,7 @@ SUMMARY:I. ve II. Öğretim lisansüstü başvurularının programlara gö
  nderilmesi için son gün
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13328@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/i-ve-ii-ogretim-lisansustu-basvurularinin-pro/1332
@@ -1031,7 +1031,7 @@ SUMMARY:Lisans programlarına yurt dışından öğrenci kabulü başvuru
  dosyalarının Fakültelere gönderilmesi
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13314@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/lisans-programlarina-yurt-disindan-ogrenci-ka/1331
@@ -1044,7 +1044,7 @@ SUMMARY:I. ve II. Öğretim lisansüstü programları başvurularının so
  n günü
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13305@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/i-ve-ii-ogretim-lisansustu-programlari-basvur/1330
@@ -1057,7 +1057,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programları Yaz D
  önemi için kayıt ödeme sisteminin açılışı (10:00)
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13309@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/1330
@@ -1070,7 +1070,7 @@ SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışında
  n öğrenci kabulü başvurusu için son gün 
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13301@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13
@@ -1083,7 +1083,7 @@ SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim ö
  ğrencilerinin Güz yarıyılı için son başvuru günü
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13299@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/1329
@@ -1095,7 +1095,7 @@ BEGIN:VEVENT
 SUMMARY:Mezuniyet Töreni
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270529
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13320@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/13320
@@ -1106,7 +1106,7 @@ BEGIN:VEVENT
 SUMMARY:Gençlik ve Spor Bayramı (Tatil)
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13285@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/genclik-ve-spor-bayrami-tatil/13285
@@ -1117,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:Kurban Bayramı (Tatil)
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270520
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13283@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kurban-bayrami-tatil/13283
@@ -1128,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:Arife (Saat 13:00' dan sonra tatil)
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13281@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/arife-saat-1300-dan-sonra-tatil/13281
@@ -1139,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:Yönetim kurullarının mezuniyet kararı alması için son gün
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13354@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yonetim-kurullarinin-mezuniyet-karari-almasi-/1335
@@ -1151,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13297@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/13297
@@ -1163,7 +1163,7 @@ SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapan
  ışı (23:59)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13606@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-is
@@ -1176,7 +1176,7 @@ SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açı
  lması (10:00)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13326@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-is
@@ -1188,7 +1188,7 @@ BEGIN:VEVENT
 SUMMARY:Not verme için sisteminin kapanışı (23:59)
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13324@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-2359
@@ -1203,7 +1203,7 @@ SUMMARY:2027 Güz yarıyılında kurum içi ve dışı yatay geçiş ÇAP
  dirilmesi için son gün
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13266@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2027-guz-yariyilinda-kurum-ici-ve-disi-yatay-/1326
@@ -1216,7 +1216,7 @@ SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23
  :59)
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13295@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1329
@@ -1228,7 +1228,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK derslerinin son günü (tüm programlar için) 
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13293@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-derslerinin-son-gunu-tum-programlar-ic/1329
@@ -1240,7 +1240,7 @@ BEGIN:VEVENT
 SUMMARY:E ve Mazeret Sınavları
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13307@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/13307
@@ -1251,7 +1251,7 @@ BEGIN:VEVENT
 SUMMARY:Mazeret Komisyonu Toplantısı (Saat 14:00)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13303@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/mazeret-komisyonu-toplantisi-saat-1400/13303
@@ -1264,7 +1264,7 @@ SUMMARY:2027 Güz yarıyılında verilecek tüm derslerin program önerile
  şkanlığı'na bildirilmesi için son gün
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13258@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2027-guz-yariyilinda-verilecek-tum-derslerin-/1325
@@ -1276,7 +1276,7 @@ BEGIN:VEVENT
 SUMMARY:Emek ve Dayanışma günü (Tatil)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13256@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/emek-ve-dayanisma-gunu-tatil/13256
@@ -1288,7 +1288,7 @@ SUMMARY:Yarıyıl sonu sınavları (25 Nisan 2027 Pazar günü 3. ve 4. sl
  otlar Kültür ve Dil dersleri için kullanılacak.)
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13291@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-25-nisan-2027-pa
@@ -1301,7 +1301,7 @@ SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları (25 Nisan 2027 Pa
  zar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13287@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinavl
@@ -1313,7 +1313,7 @@ BEGIN:VEVENT
 SUMMARY:Not verme için sistemin açılışı (10:00)
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13289@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/13
@@ -1325,7 +1325,7 @@ BEGIN:VEVENT
 SUMMARY:Ulusal Egemenlik ve Çocuk Bayramı (Tatil)
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13252@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ulusal-egemenlik-ve-cocuk-bayrami-tatil/13252
@@ -1337,7 +1337,7 @@ SUMMARY:Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık
  Okulu dersleri hariç) 
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13279@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359
@@ -1349,7 +1349,7 @@ BEGIN:VEVENT
 SUMMARY:Derslerin son günü
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13277@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/13277
@@ -1360,7 +1360,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi 
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13260@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1326
@@ -1372,7 +1372,7 @@ BEGIN:VEVENT
 SUMMARY:Yarıyıl izni başvurusu için son gün
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13275@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/132
@@ -1385,7 +1385,7 @@ SUMMARY:2027 Güz yarıyılı için I. öğretim lisansüstü programları
  na başvuru dönemi
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270611
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13241@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/2027-guz-yariyili-icin-i-ogretim-lisansustu-p/13
@@ -1398,7 +1398,7 @@ SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
  ç)
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270424
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13254@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirl
@@ -1412,7 +1412,7 @@ SUMMARY:II. Öğretim Yüksek Lisans Programlarında Yaz Döneminde açıl
  in son gün 
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13233@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ii-ogretim-yuksek-lisans-programlarinda-yaz-d/1323
@@ -1424,7 +1424,7 @@ BEGIN:VEVENT
 SUMMARY:Kayıt sisteminin öğrenci erişimine kapanışı (19:00)
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13604@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kayit-sisteminin-ogrenci-erisimine-kapanisi-1/1360
@@ -1436,7 +1436,7 @@ BEGIN:VEVENT
 SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin kapanışı (16:00)
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13268@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-kapani/1326
@@ -1449,7 +1449,7 @@ SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı
  (18:00)
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13272@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/1327
@@ -1461,7 +1461,7 @@ BEGIN:VEVENT
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (16:00)
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13270@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/1327
@@ -1474,7 +1474,7 @@ SUMMARY:Yaz Öğretimi kayıtları için akademik kayıt sisteminin öğre
  nci erişimine açılışı (10:00)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13264@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-kayitlari-icin-akademik-kayit-si/1326
@@ -1486,7 +1486,7 @@ BEGIN:VEVENT
 SUMMARY:Yaz Öğretimi ön kayıtları
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13262@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-on-kayitlari/13262
@@ -1498,7 +1498,7 @@ SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışında
  n öğrenci kabulü için başvuru dönemi
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13227@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13
@@ -1511,7 +1511,7 @@ SUMMARY:2027 Güz yarıyılı için II. Öğretim Yüksek Lisans Programla
  rına başvuru dönemi
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270611
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13225@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/2027-guz-yariyili-icin-ii-ogretim-yuksek-lisa/13
@@ -1525,7 +1525,7 @@ SUMMARY:Enstitü Müdürlüklerinin tez dersleri (690\,790) ile ilgili şu
  nci İşleri Daire Başkanlığı'na bildirmesi için son gün 
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13250@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/enstitu-mudurluklerinin-tez-dersleri-690790-i/1325
@@ -1538,7 +1538,7 @@ SUMMARY:Yarıyıl sonu sınav tarihlerinde yapılacak değişiklik öneril
  erinin Rektörlüğe bildirilmesi için son gün
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13247@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yariyil-sonu-sinav-tarihlerinde-yapilacak-deg/1324
@@ -1551,7 +1551,7 @@ SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman eriş
  imine kapanışı (23:59)
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13245@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/1324
@@ -1564,7 +1564,7 @@ SUMMARY:2027 Güz yarıyılı "kitle dersleri" program önerilerinin Öğr
  enci İşleri Daire Başkanlığı'na bildirilmesi için son gün 
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13223@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2027-guz-yariyili-kitle-dersleri-program-oner/1322
@@ -1576,7 +1576,7 @@ BEGIN:VEVENT
 SUMMARY:Akademik kayıt danışmanı ile görüşme günü
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13239@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/13239
@@ -1588,7 +1588,7 @@ SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişi
  mine kapanışı (23:59)
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270326
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13243@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/1324
@@ -1600,7 +1600,7 @@ BEGIN:VEVENT
 SUMMARY:Dersten çekilme dönemi
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13229@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/dersten-cekilme-donemi/13229
@@ -1612,7 +1612,7 @@ SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10
  :00)
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13231@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/1323
@@ -1627,7 +1627,7 @@ SUMMARY:2027 Güz yarıyılı için istenen ders programı değişiklikler
  dirilmesi için son gün
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13221@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2027-guz-yariyili-icin-istenen-ders-programi-/1322
@@ -1639,7 +1639,7 @@ BEGIN:VEVENT
 SUMMARY:Yaz Öğretiminde açılacak derslerin ilan edilmesi
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13235@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretiminde-acilacak-derslerin-ilan-edilm/1323
@@ -1651,7 +1651,7 @@ BEGIN:VEVENT
 SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin açılışı (10:00)
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13237@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-acilis/1323
@@ -1663,7 +1663,7 @@ BEGIN:VEVENT
 SUMMARY:Bahar Tatili / Ramazan Bayramı (Tatil)
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13219@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/bahar-tatili-ramazan-bayrami-tatil/1321
@@ -1676,7 +1676,7 @@ SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin dan
  ışman erişimine kapanışı (23:59)
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13217@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/1321
@@ -1689,7 +1689,7 @@ SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı
  Add/Drop (21:00)
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13213@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/1321
@@ -1702,7 +1702,7 @@ SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı Add/Drop
  (14:00)
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-14213@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/1421
@@ -1714,7 +1714,7 @@ BEGIN:VEVENT
 SUMMARY:Kayıt ödeme sisteminin kapanışı (17:00)
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13602@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1700/13602
@@ -1726,7 +1726,7 @@ SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğ
  renci erişimine kapanışı (23:59)
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13215@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/1321
@@ -1739,7 +1739,7 @@ SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin aç
  ılışı (10:00)
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13209@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/1320
@@ -1751,7 +1751,7 @@ BEGIN:VEVENT
 SUMMARY:Ders ekleme/bırakma dönemi
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13207@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi/13207
@@ -1764,7 +1764,7 @@ SUMMARY:2027 Güz yarıyılı için lisansüstü programların kontenjan
  ığı'na bildirilmesi için son gün
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13159@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2027-guz-yariyili-icin-lisansustu-programlari/1315
@@ -1778,7 +1778,7 @@ SUMMARY:2027-2028 Akademik Yılı için lisansüstü programlara asgari ba
  lmesi için son gün
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13157@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2027-2028-akademik-yili-icin-lisansustu-progr/1315
@@ -1790,7 +1790,7 @@ BEGIN:VEVENT
 SUMMARY:Derslerin başlaması (YADYOK dersleri dahil)
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13205@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-dersleri-dah
@@ -1803,7 +1803,7 @@ SUMMARY:Akademik kayıt sisteminin danışman erişimine kapanışı (23:5
  9)
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13203@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-sisteminin-danisman-erisimine-/1320
@@ -1815,7 +1815,7 @@ BEGIN:VEVENT
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (14:00)
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13211@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/1321
@@ -1828,7 +1828,7 @@ SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (2
  1:00)
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13199@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/1319
@@ -1841,7 +1841,7 @@ SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59
  )
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13201@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/1320
@@ -1854,7 +1854,7 @@ SUMMARY:Yaz Öğretiminde görevlendirilecek yabancı uyruklu öğretim ü
  yesi önerilerinin Rektörlüğe bildirilmesi için son gün
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13141@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretiminde-gorevlendirilecek-yabanci-uyr/1314
@@ -1866,7 +1866,7 @@ BEGIN:VEVENT
 SUMMARY:Akademik kayıt danışmanı ile görüşme günü
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13195@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/13195
@@ -1879,7 +1879,7 @@ SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Mo
  sınavları
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13193@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogre
@@ -1891,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13191@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-sisteminin-acilisi-1000/13191
@@ -1902,7 +1902,7 @@ BEGIN:VEVENT
 SUMMARY:Çevrimiçi kayıt dönemi
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13189@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/cevrimici-kayit-donemi/13189
@@ -1915,7 +1915,7 @@ SUMMARY:Yedek listeden kurum içi yatay geçiş kabulü alan öğrencileri
  başvuru günü
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-14211@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-kurum-ici-yatay-gecis-kabulu-a/1421
@@ -1928,7 +1928,7 @@ SUMMARY:Yedek listeden lisansüstü programlara kabul edilen öğrencileri
  n Üniversiteye kayıt günü
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13181@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-lisansustu-programlara-kabul-e/1318
@@ -1941,7 +1941,7 @@ SUMMARY:Birimler tarafından kota girişleri ve danışman atama işlemler
  inin tamamlanması için son gün (17:00)
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13185@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/birimler-tarafindan-kota-girisleri-ve-danisma/1318
@@ -1954,7 +1954,7 @@ SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi
   Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13187@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrenci
@@ -1967,7 +1967,7 @@ SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu içi
  n son gün
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13175@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/13
@@ -1980,7 +1980,7 @@ SUMMARY:Kurum içi yatay geçiş kabulü alan öğrencilerin bölüm deği
  şikliği için Fakülte Öğrenci İşleri sorumlularına başvuru günü
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13173@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kurum-ici-yatay-gecis-kabulu-alan-ogrencileri/1317
@@ -1993,7 +1993,7 @@ SUMMARY:Asıl listeden lisansüstü programlara kabul alan öğrencilerin
  Üniversiteye kayıt günü
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13171@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-lisansustu-programlara-kabul-al/1317
@@ -2006,7 +2006,7 @@ SUMMARY:Uluslararası misafir öğrenci ve uluslararası değişim öğren
  cilerinin Üniversiteye çevrimiçi kayıtları
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13179@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/1317
@@ -2019,7 +2019,7 @@ SUMMARY:Yedek listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili
  programlara çevrim içi kayıt günü (10:00 – 23:59)
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13183@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-cap-ve-yan-dal-kabulu-alan-ogr/1318
@@ -2032,7 +2032,7 @@ SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili
  programlara çevrim içi kayıt günü (10:00 – 23:59)
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13177@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-cap-ve-yan-dal-kabulu-alan-ogre/1317
@@ -2047,7 +2047,7 @@ SUMMARY:Yönetim Kurullarının kurum içi yatay geçiş kabul kararların
  Daire Başkanlığına bildirmeleri için son gün
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13167@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yonetim-kurullarinin-kurum-ici-yatay-gecis-ka/1316
@@ -2060,7 +2060,7 @@ SUMMARY:Fakültelerin ÇAP ve yan dal kabul kararlarını çevrim içi ba
  şvuru sistemi üzerinden ilan etmesi için son gün
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-14209@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/fakultelerin-cap-ve-yan-dal-kabul-kararlarini/1420
@@ -2072,7 +2072,7 @@ BEGIN:VEVENT
 SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13169@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/13169
@@ -2084,7 +2084,7 @@ SUMMARY:2027 Güz yarıyılında görevlendirilecek yabancı uyruklu öğr
  etim üyesi önerilerinin Rektörlüğe bildirilmesi için son gün
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13121@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2027-guz-yariyilinda-gorevlendirilecek-yabanc/1312
@@ -2096,7 +2096,7 @@ BEGIN:VEVENT
 SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13161@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/13
@@ -2108,7 +2108,7 @@ BEGIN:VEVENT
 SUMMARY:Yılbaşı (Tatil)
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13119@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yilbasi-tatil/13119
@@ -2119,7 +2119,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Program I derslerinin son günü
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13143@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-program-i-derslerinin-son-gunu/13143
@@ -2131,7 +2131,7 @@ SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Öğre
  nci İşleri Daire Başkanlığına bildirilmesi için son gün (14:00)
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13166@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept-sonucl/1316
@@ -2143,7 +2143,7 @@ BEGIN:VEVENT
 SUMMARY:Kurum içi yatay geçiş için başvuru dönemi
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261231
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13149@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kurum-ici-yatay-gecis-icin-basvuru-donemi/13149
@@ -2155,7 +2155,7 @@ SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yap
  an adaylar için bilim sınavları
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261230
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-14207@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2027-bahar-yariy
@@ -2168,7 +2168,7 @@ SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açı
  lması (10:00)
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13151@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-is
@@ -2181,7 +2181,7 @@ SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapan
  ışı (23.59)
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13153@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-is
@@ -2193,7 +2193,7 @@ BEGIN:VEVENT
 SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13145@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi
@@ -2206,7 +2206,7 @@ SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23
  :59)
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13125@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1312
@@ -2219,7 +2219,7 @@ SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yap
  an adaylar için bilim sınavları
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13147@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2027-bahar-yariy
@@ -2231,7 +2231,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13131@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/13131
@@ -2243,7 +2243,7 @@ SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanma
  sı
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13139@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/1313
@@ -2255,7 +2255,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Program II\, III\, IV derslerinin son günü
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13123@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-program-ii-iii-iv-derslerinin-son-gunu/1312
@@ -2268,7 +2268,7 @@ SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık S
  ınıfı için başvuru yapan adaylara)(10:00)
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13137@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/1313
@@ -2280,7 +2280,7 @@ BEGIN:VEVENT
 SUMMARY:E ve Mazeret Sınavları
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13133@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/13133
@@ -2292,7 +2292,7 @@ SUMMARY:Lisansüstü başvurularının programlara gönderilmesi için son
   gün
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13135@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/lisansustu-basvurularinin-programlara-gonderi/1313
@@ -2304,7 +2304,7 @@ BEGIN:VEVENT
 SUMMARY:Mazeret Komisyonu Toplantısı (Saat 13:30)
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13127@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/mazeret-komisyonu-toplantisi-saat-1330/13127
@@ -2315,7 +2315,7 @@ BEGIN:VEVENT
 SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13129@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/1312
@@ -2329,7 +2329,7 @@ SUMMARY:2026/2027 II. yarıyılında açılan derslerin gün ve saat deği
  ğrenci İşleri Daire Başkanlığı'na bildirilmesi için son gün 
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13155@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/20262027-ii-yariyilinda-acilan-derslerin-gun-/1315
@@ -2341,7 +2341,7 @@ BEGIN:VEVENT
 SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13117@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/13
@@ -2354,7 +2354,7 @@ SUMMARY:Yarıyıl sonu sınavları (13 Aralık 2026 Pazar günü 3. ve 4.
  slotlar Kültür ve Dil dersleri için kullanılacak.)
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13111@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-13-aralik-2026-p
@@ -2368,7 +2368,7 @@ SUMMARY:Kültür ve dil dersleri (HUM dersleri dahil) yarıyıl sonu sına
  leri için kullanılacak.)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13107@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dersleri-dah
@@ -2380,7 +2380,7 @@ BEGIN:VEVENT
 SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13109@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-
@@ -2393,7 +2393,7 @@ SUMMARY: Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık
   Okulu dersleri hariç) 
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13103@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359
@@ -2406,7 +2406,7 @@ SUMMARY:Yaz Öğretiminde açılacak derslerin Öğrenci İşleri Daire Ba
  şkanlığı'na bildirilmesi için son gün
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13099@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretiminde-acilacak-derslerin-ogrenci-is/1309
@@ -2418,7 +2418,7 @@ BEGIN:VEVENT
 SUMMARY:Derslerin son günü
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13101@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/13101
@@ -2429,7 +2429,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13105@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1310
@@ -2441,7 +2441,7 @@ BEGIN:VEVENT
 SUMMARY:Yarıyıl izni başvurusu için son gün
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13097@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/130
@@ -2456,7 +2456,7 @@ SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğren
  in son gün 
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13090@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/1309
@@ -2469,7 +2469,7 @@ SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
  ç)
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13095@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirl
@@ -2483,7 +2483,7 @@ SUMMARY:Enstitü Müdürlüklerinin tez dersleri (690\,790) ile ilgili şu
  nci İşleri Daire Başkanlığı'na bildirmesi için son gün 
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13249@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/enstitu-mudurluklerinin-tez-dersleri-690790-i/1324
@@ -2496,7 +2496,7 @@ SUMMARY:Yarıyıl sonu sınav tarihlerinde yapılacak değişiklik öneril
  erinin Rektörlüğe bildirilmesi için son gün
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13083@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yariyil-sonu-sinav-tarihlerinde-yapilacak-deg/1308
@@ -2509,7 +2509,7 @@ SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman eriş
  imine kapanışı (23:59)
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13088@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/1308
@@ -2522,7 +2522,7 @@ SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişi
  mine kapanışı (23:59)
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13081@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/1308
@@ -2534,7 +2534,7 @@ BEGIN:VEVENT
 SUMMARY:Atatürk'ü anma günü
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13059@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ataturku-anma-gunu/13059
@@ -2545,7 +2545,7 @@ BEGIN:VEVENT
 SUMMARY:Akademik kayıt danışmanı ile görüşme günü
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13079@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/13079
@@ -2557,7 +2557,7 @@ SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10
  :00)
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13077@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/1307
@@ -2569,7 +2569,7 @@ BEGIN:VEVENT
 SUMMARY:Dersten çekilme dönemi
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13075@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/dersten-cekilme-donemi/13075
@@ -2582,7 +2582,7 @@ SUMMARY:Bahar yarıyılında açılacak tüm derslerin gün ve saat öneri
  gün
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13061@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/bahar-yariyilinda-acilacak-tum-derslerin-gun-/1306
@@ -2594,7 +2594,7 @@ BEGIN:VEVENT
 SUMMARY:Cumhuriyet Bayramı (Tatil)
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13053@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/cumhuriyet-bayrami-tatil/13053
@@ -2605,7 +2605,7 @@ BEGIN:VEVENT
 SUMMARY:Saat 13:00'den sonra tatil
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13051@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/saat-1300den-sonra-tatil/13051
@@ -2618,7 +2618,7 @@ SUMMARY:Bahar yarıyılı için kurum içi yatay geçiş ÇAP ve yan dal a
  şkanlığı'na bildirilmesi için son gün 
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13063@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/bahar-yariyili-icin-kurum-ici-yatay-gecis-cap/1306
@@ -2632,7 +2632,7 @@ SUMMARY:2027 Bahar yarıyılı için lisansüstü programların kontenjan
  ığı'na bildirilmesi için son gün
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13094@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2027-bahar-yariyili-icin-lisansustu-programla/1309
@@ -2645,7 +2645,7 @@ SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim ö
  ğrencilerinin Bahar yarıyılı için son başvuru günü
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9242@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/92
@@ -2659,7 +2659,7 @@ SUMMARY:Bahar yarıyılında açılacak kitle dersleri için gün ve saat
  on günü
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13049@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/bahar-yariyilinda-acilacak-kitle-dersleri-ici/1304
@@ -2672,7 +2672,7 @@ SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin dan
  ışman erişimine kapanışı (23:59)
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13047@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/1304
@@ -2685,7 +2685,7 @@ SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğ
  renci erişimine kapanışı (23:59)
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13045@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/1304
@@ -2698,7 +2698,7 @@ SUMMARY:Ders ekleme/bırakma dönemi ders onay (consent) sisteminin öğre
  tim elemanına kapanışı (21:00)
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13043@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi-ders-onay-consent-s/1304
@@ -2710,7 +2710,7 @@ BEGIN:VEVENT
 SUMMARY:Kayıt ödeme sisteminin kapanışı (17:00)
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13039@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1700/13039
@@ -2722,7 +2722,7 @@ SUMMARY:Ders ekleme/bırakma dönemi ders onay (consent) sisteminin öğre
  nciye kapanışı (14:00)
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13041@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi-ders-onay-consent-s/1304
@@ -2735,7 +2735,7 @@ SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin aç
  ılışı (10:00)
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13035@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/1303
@@ -2747,7 +2747,7 @@ BEGIN:VEVENT
 SUMMARY:Akademik kayıt danışmanı ile görüşme günü
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13037@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/13037
@@ -2758,7 +2758,7 @@ BEGIN:VEVENT
 SUMMARY:Ders ekleme/bırakma dönemi
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13033@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-eklemebirakma-donemi/13033
@@ -2769,7 +2769,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK derslerinin başlaması
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13031@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-derslerinin-baslamasi/13031
@@ -2781,7 +2781,7 @@ SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanma
  sı
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13029@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/1302
@@ -2793,7 +2793,7 @@ BEGIN:VEVENT
 SUMMARY:Üniversiteyi Tanıma Günleri
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13027@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/universiteyi-tanima-gunleri/13027
@@ -2804,7 +2804,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (10:00)
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13025@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-1000/13025
@@ -2815,7 +2815,7 @@ BEGIN:VEVENT
 SUMMARY:Derslerin başlaması (YADYOK hariç)
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13023@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-haric/13023
@@ -2827,7 +2827,7 @@ SUMMARY:Yaz Dönemi sonunda sonlanan II. Öğretim Yüksek Lisans Programl
  arının Diploma Töreni
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9241@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-donemi-sonunda-sonlanan-ii-ogretim-yuksek/9241
@@ -2840,7 +2840,7 @@ SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Mo
  sınavları
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13021@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogre
@@ -2853,7 +2853,7 @@ SUMMARY:Akademik kayıt sisteminin danışman erişimine kapanışı (23:5
  9)
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13019@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-sisteminin-danisman-erisimine-/1301
@@ -2866,7 +2866,7 @@ SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59
  )
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13017@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/1301
@@ -2879,7 +2879,7 @@ SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (2
  1:00)
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13015@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/1301
@@ -2891,7 +2891,7 @@ BEGIN:VEVENT
 SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13013@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogrenciye-kapani/1301
@@ -2903,7 +2903,7 @@ BEGIN:VEVENT
 SUMMARY:Akademik kayıt danışmanı ile görüşme günü
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13011@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/13011
@@ -2914,7 +2914,7 @@ BEGIN:VEVENT
 SUMMARY:Çevrimiçi kayıt dönemi
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13007@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/cevrimici-kayit-donemi/13007
@@ -2925,7 +2925,7 @@ BEGIN:VEVENT
 SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13009@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/akademik-kayit-sisteminin-acilisi-1000/13009
@@ -2937,7 +2937,7 @@ SUMMARY:YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının K
  ayıt İşleri Şube Müdürlüğüne bildirilmesi için son gün (15:00)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13001@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-guz-ingilizce-yeterlik-sinavi-buept-so/1300
@@ -2950,7 +2950,7 @@ SUMMARY:Birimler tarafından kota girişleri ve danışman atama işlemler
  inin tamamlanması için son gün (17:00)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13005@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/birimler-tarafindan-kota-girisleri-ve-danisma/1300
@@ -2963,7 +2963,7 @@ SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi
   Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13003@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrenci
@@ -2977,7 +2977,7 @@ SUMMARY:İkinci başvuru döneminde yedek listeden Lisans programlarına y
  n Üniversiteye kayıtları 
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13954@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ikinci-basvuru-doneminde-yedek-listeden-lisan/1395
@@ -2989,7 +2989,7 @@ BEGIN:VEVENT
 SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-12998@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/12998
@@ -3000,7 +3000,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT)
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-12997@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-guz-ingilizce-yeterlik-sinavi-buept/12997
@@ -3011,7 +3011,7 @@ BEGIN:VEVENT
 SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9239@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/92
@@ -3024,7 +3024,7 @@ SUMMARY:Lisansüstü programlara yedek listeden kabul edilen öğrencileri
  n üniversiteye kayıtları
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9238@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/lisansustu-programlara-yedek-listeden-kabul-e/9238
@@ -3037,7 +3037,7 @@ SUMMARY:İkinci başvuru döneminde asıl listeden Lisans programlarına y
  n Üniversiteye kayıtları
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13953@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ikinci-basvuru-doneminde-asil-listeden-lisans/1395
@@ -3050,7 +3050,7 @@ SUMMARY:Merkezi puanla yatay geçiş kapsamında kabul edilen öğrenciler
  in Üniversiteye kayıtları
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9236@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-kapsaminda-kabul-e/9236
@@ -3062,7 +3062,7 @@ SUMMARY:Lisansüstü programlara asıl listeden kabul edilen öğrencileri
  n üniversiteye kayıtları
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9235@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/lisansustu-programlara-asil-listeden-kabul-ed/9235
@@ -3073,7 +3073,7 @@ BEGIN:VEVENT
 SUMMARY:Merkezi puanla yatay geçiş kabullerinin ilanı
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9234@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-kabullerinin-ilani/9234
@@ -3084,7 +3084,7 @@ BEGIN:VEVENT
 SUMMARY:Zafer Bayramı (Tatil)
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9233@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/zafer-bayrami-tatil/9233
@@ -3097,7 +3097,7 @@ SUMMARY:2026/2027 I. yarıyılında açılan derslerin gün ve saat deği
  ğrenci İşleri Daire Başkanlığı’na bildirilmesi için son gün 
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9232@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/20262027-i-yariyilinda-acilan-derslerin-gun-v/9232
@@ -3109,7 +3109,7 @@ SUMMARY:Merkezi yatay geçiş kabul kararları için ÜYK toplanması içi
  n son gün 
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9231@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/merkezi-yatay-gecis-kabul-kararlari-icin-uyk-/9231
@@ -3121,7 +3121,7 @@ SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Ö
  ğrenci İşleri Daire Başkanlığı’na bildirilmesi için son gün
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9230@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/9230
@@ -3133,7 +3133,7 @@ SUMMARY:Merkezi yatay geçiş puanıyla başvuru yapanları değerlendirme
  k üzere Komisyonun toplanması için son gün
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9229@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/merkezi-yatay-gecis-puaniyla-basvuru-yapanlar/9229
@@ -3144,7 +3144,7 @@ BEGIN:VEVENT
 SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9228@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi
@@ -3157,7 +3157,7 @@ SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğren
  cilerinin Üniversiteye çevrimiçi kayıtları
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9227@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/9227
@@ -3168,7 +3168,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT)
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9226@bogazici.edu.tr
 DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/9226
@@ -3179,7 +3179,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Program I Yaz Okulu derslerinin sonu
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9224@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-program-i-yaz-okulu-derslerinin-sonu/9224
@@ -3191,7 +3191,7 @@ SUMMARY: İkinci başvuru döneminde lisans programlarına yurt dışında
  n öğrenci kabul kararlarının ilan edilmesi
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13952@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ikinci-basvuru-doneminde-lisans-programlarina/1395
@@ -3204,7 +3204,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  z Dönemi dönem sonu sınavları
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9223@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisan
@@ -3216,7 +3216,7 @@ BEGIN:VEVENT
 SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9222@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-
@@ -3228,7 +3228,7 @@ BEGIN:VEVENT
 SUMMARY:Ders değerlendirme dönemi son günü (23:59)
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9221@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359
@@ -3241,7 +3241,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  z Dönemi derslerinin son günü
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9220@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisan
@@ -3254,7 +3254,7 @@ SUMMARY:İkinci başvuru döneminde lisans programlarına yurt dışından
   öğrenci kabul kararları için ÜYK toplanması için son gün
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13951@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ikinci-basvuru-doneminde-lisans-programlarina/1395
@@ -3267,7 +3267,7 @@ SUMMARY:İkinci başvuru döneminde lisans programlarına yurt dışından
   öğrenci kabul kararları için Komisyonun toplanması için son gün
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13950@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ikinci-basvuru-doneminde-lisans-programlarina/1395
@@ -3279,7 +3279,7 @@ BEGIN:VEVENT
 SUMMARY:YADYOK Yaz Okulu Program II ve III derslerinin sonu
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9217@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yadyok-yaz-okulu-program-ii-ve-iii-derslerini/9217
@@ -3292,7 +3292,7 @@ SUMMARY:Yedek listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili
  ru günü
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9215@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-cap-ve-yan-dal-kabulu-alan-ogr/9215
@@ -3304,7 +3304,7 @@ SUMMARY:Yedek listeden kurum dışı yatay geçiş ile kabul edilen öğre
  ncilerin Üniversiteye kayıt günü
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9214@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-kurum-disi-yatay-gecis-ile-kab/9214
@@ -3317,7 +3317,7 @@ SUMMARY:Yedek listeden kurum içi yatay geçiş kabulü alan öğrencileri
  başvuru günü
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9213@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yedek-listeden-kurum-ici-yatay-gecis-kabulu-a/9213
@@ -3330,7 +3330,7 @@ SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili
  ru günü
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9212@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-cap-ve-yan-dal-kabulu-alan-ogre/9212
@@ -3342,7 +3342,7 @@ SUMMARY:Asıl listeden kurum dışı yatay geçiş ile kabul edilen öğre
  ncilerin Üniversiteye kayıt günü
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9211@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-kurum-disi-yatay-gecis-ile-kabu/9211
@@ -3355,7 +3355,7 @@ SUMMARY:Asıl listeden kurum içi yatay geçiş kabulü alan öğrencileri
  başvuru günü
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9210@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/asil-listeden-kurum-ici-yatay-gecis-kabulu-al/9210
@@ -3368,7 +3368,7 @@ SUMMARY:2026-2027 Akademik yılında lisans programlarına yurt dışında
  ğrencilerin Üniversiteye kayıtları
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260807
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13949@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/1394
@@ -3381,7 +3381,7 @@ SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belir
  lenen takvim)
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9209@bogazici.edu.tr
 DESCRIPTION:Kategori: Başvuru\nDetaylar: https://akademiktakvim.bogazici.
  edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/92
@@ -3393,7 +3393,7 @@ BEGIN:VEVENT
 SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9208@bogazici.edu.tr
 DESCRIPTION:Kategori: Eğitim-Öğretim\nDetaylar: https://akademiktakvim.
  bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirl
@@ -3407,7 +3407,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  nci erişimine kapanışı (19:00)
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9207@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9207
@@ -3420,7 +3420,7 @@ SUMMARY:II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten
  panışı (23:59)
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9206@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ii-ogretim-yuksek-lisans-programlarinin-yaz-d/9206
@@ -3432,7 +3432,7 @@ SUMMARY:İkinci başvuru döneminde lisans programlarına yurt dışından
   öğrenci kabul kararlarının Rektörlüğe bildirilmesi için son gün
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-13948@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/ikinci-basvuru-doneminde-lisans-programlarina/1394
@@ -3446,7 +3446,7 @@ SUMMARY:Kurum içi ve dışı yatay geçiş kabul kararlarının Fakülte
  ı’na bildirilmesi için son gün 
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9205@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-kabul-kararlari/9205
@@ -3459,7 +3459,7 @@ SUMMARY:ÇAP ve yan dal kabul kararlarının Fakülte Öğrenci İşleri s
   için son gün 
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9204@bogazici.edu.tr
 DESCRIPTION:Kategori: İdari\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/cap-ve-yan-dal-kabul-kararlarinin-fakulte-ogr/9204
@@ -3472,7 +3472,7 @@ SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Ya
  nci erişimine açılışı (10:00)
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9203@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9203
@@ -3484,7 +3484,7 @@ SUMMARY:Yaz Dönemi ve II. Öğretim Yüksek Lisans Programlarının Yaz D
  önemi dersten çekilme dönemi
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260926T150945Z
+DTSTAMP:20260926T154212Z
 UID:boun-9202@bogazici.edu.tr
 DESCRIPTION:Kategori: Kayıt\nDetaylar: https://akademiktakvim.bogazici.ed
  u.tr/tr/events/akademik/yaz-donemi-ve-ii-ogretim-yuksek-lisans-progra/9202
