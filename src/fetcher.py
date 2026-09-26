@@ -40,7 +40,7 @@ def is_cal_changed():
         return False
 
 
-response = requests.get("https://akademiktakvim.bogazici.edu.tr/tr/json?type=4")
+response = requests.get("https://akademiktakvim.bogazici.edu.tr/tr/json?type=4", timeout=10)
 
 
 raw_json = response.json()
@@ -52,7 +52,7 @@ current_hash = calculate_hash(str(response.text))
 def get_events():
     events = []
     for raw_event in raw_events:
-        if datetime.now() - timedelta(15) <= raw_event.end_date:
+        if raw_event.end_date >= datetime.now() - timedelta(60):
             events.append(raw_event)
     return events
         

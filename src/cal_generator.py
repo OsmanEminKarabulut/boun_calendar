@@ -1,5 +1,5 @@
 from icalendar import Calendar, Event
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 
 #paths
@@ -27,19 +27,21 @@ def generate_cal(events):
 
         if e.is_all_day:
             event.add("dtstart", e.start_date.date())
-            event.add("dtend", e.end_date.date())
+            event.add("dtend", e.end_date.date()  + timedelta(days=1))
 
         else:
             event.add('dtstart', e.start_date)
             event.add('dtend', e.end_date)
 
         aciklama_metni = f"Kategori: {e.kategori_adi}\n"
+        
+
         if e.kulup:
             aciklama_metni += f"Kulüp: {e.kulup}\n"
         if e.link:
             aciklama_metni += f"Detaylar: {e.link}"
             event.add('url', e.link)
-
+        event.add("description", aciklama_metni)
         cal.add_component(event)
 
     
