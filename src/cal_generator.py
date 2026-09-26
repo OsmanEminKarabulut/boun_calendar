@@ -34,6 +34,8 @@ def generate_cal(events):
             event.add('dtend', e.end_date)
 
         aciklama_metni = f"Kategori: {e.kategori_adi}\n"
+        event.add("description", aciklama_metni)
+
         if e.kulup:
             aciklama_metni += f"Kulüp: {e.kulup}\n"
         if e.link:
