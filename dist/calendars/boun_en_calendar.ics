@@ -1,0 +1,3360 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bogazici Calendar//bogazici.edu.tr//
+X-WR-CALNAME:Boğaziçi University Academic Calendar
+X-WR-TIMEZONE:Europe/Istanbul
+BEGIN:VEVENT
+SUMMARY:Deadline for international exchange and visitor students applicati
+ ons for Spring term
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+DTSTAMP:20260926T154212Z
+UID:boun-13482@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/13
+ 482
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -international-exchange-and-visit/13482
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commencement Ceremony for Second Education Masters Programs (End o
+ f the Summer Term)
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+DTSTAMP:20260926T154212Z
+UID:boun-13481@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/commencement-ceremony-for-second-education-
+ ma/13481
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement
+ -ceremony-for-second-education-ma/13481
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online registration date for students admitted off the wait-list t
+ o major and minor programs (10:00 – 23:59)
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+DTSTAMP:20260926T154212Z
+UID:boun-14221@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-registration-date-for-students-admit
+ te/14221
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-regis
+ tration-date-for-students-admitte/14221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of students who are placed in undergraduate programs 
+ on waiting list within the scope of accepting students from abroad
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270910
+DTSTAMP:20260926T154212Z
+UID:boun-13476@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-of-students-who-are-placed-in-
+ un/13476
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-students-who-are-placed-in-un/13476
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online registration date for students admitted off the main list t
+ o major and minor programs (10:00 – 23:59)
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+DTSTAMP:20260926T154212Z
+UID:boun-14220@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-registration-date-for-students-admit
+ te/14220
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-regis
+ tration-date-for-students-admitte/14220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties to send admission acceptance decisions on d
+ ouble-major\, minor to the Faculty Student Affairs via the online applicat
+ ion system.
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+DTSTAMP:20260926T154212Z
+UID:boun-14218@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-ac
+ ce/14218
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -faculties-to-send-admission-acce/14218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration for new graduate students admitted off the wait-list
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+DTSTAMP:20260926T154212Z
+UID:boun-13474@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-for-new-graduate-students-admitt
+ /13474
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -for-new-graduate-students-admitt/13474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for guest students (enrolled in domestic universities) ap
+ plications
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+DTSTAMP:20260926T154212Z
+UID:boun-13470@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/13
+ 470
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -guest-students-enrolled-in-domes/13470
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of students who are placed in undergraduate programs 
+ within the scope of accepting students from abroad
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270908
+DTSTAMP:20260926T154212Z
+UID:boun-13472@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-of-students-who-are-placed-in-
+ un/13472
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-students-who-are-placed-in-un/13472
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of transfer students accepted with central points
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+DTSTAMP:20260926T154212Z
+UID:boun-13468@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-of-transfer-students-accepted-
+ wi/13468
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-transfer-students-accepted-wi/13468
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of newly admitted graduate students on primary list
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270904
+DTSTAMP:20260926T154212Z
+UID:boun-13466@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude
+ /13466
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-newly-admitted-graduate-stude/13466
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victory Day (Holiday)
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+DTSTAMP:20260926T154212Z
+UID:boun-13464@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/victory-day-holiday/13464
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-
+ holiday/13464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending date changes of courses to the Registrar in t
+ he 2027/2028 Fall
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+DTSTAMP:20260926T154212Z
+UID:boun-13460@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-course
+ s-/13460
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-date-changes-of-courses-/13460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Announcement of transfer acceptances with central points
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+DTSTAMP:20260926T154212Z
+UID:boun-13462@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/announcement-of-transfer-acceptances-with-c
+ en/13462
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement
+ -of-transfer-acceptances-with-cen/13462
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the English Proficiency Exam (BUEPT) results 
+ to the Registrar (SFL Summer)
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+DTSTAMP:20260926T154212Z
+UID:boun-13458@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/deadline-for-sending-the-english-proficiency-/13458
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-english-proficiency-/13458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to apply to double-major programs and minor programs
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+DTSTAMP:20260926T154212Z
+UID:boun-13391@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13
+ 391
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-
+ apply-to-double-major-programs-an/13391
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for the University Executive Board meeting for central tr
+ ansfer admission decisions
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+DTSTAMP:20260926T154212Z
+UID:boun-13456@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board
+ -m/13456
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -the-university-executive-board-m/13456
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for the meeting of the Commission to evaluate the applica
+ nts with the central transfer score
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+DTSTAMP:20260926T154212Z
+UID:boun-13454@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-the-meeting-of-the-commission-
+ to/13454
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -the-meeting-of-the-commission-to/13454
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Registration for international visitor students and exchang
+ e students
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270821
+DTSTAMP:20260926T154212Z
+UID:boun-13452@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-registration-for-international-visitor
+ /13452
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-regis
+ tration-for-international-visitor/13452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application period to double-major programs and minor programs
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270826
+DTSTAMP:20260926T154212Z
+UID:boun-13349@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13
+ 349
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ period-to-double-major-programs-a/13349
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission system closes (23:59)
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+DTSTAMP:20260926T154212Z
+UID:boun-13450@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-system-closes-2359/13450
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-system-closes-2359/13450
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Summer English Proficiency Exam (BUEPT)
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+DTSTAMP:20260926T154212Z
+UID:boun-13448@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-summer-english-proficiency-exam-buept/13448
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-e
+ nglish-proficiency-exam-buept/13448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Course Evaluations Period End
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260926T154212Z
+UID:boun-13444@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-course-evaluations-period-end/13444
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-e
+ valuations-period-end/13444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration day for students accepted from the wait list through 
+ external transfer
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260926T154212Z
+UID:boun-13438@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from
+ -t/13438
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -day-for-students-accepted-from-t/13438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students who have been accepted as internal t
+ ransfer students from the wait list to the Faculty Student Affairs officer
+ s for department change
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260926T154212Z
+UID:boun-13436@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/application-date-for-students-who-have-been
+ -a/13436
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-who-have-been-a/13436
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Summer Term Program I classes end
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260926T154212Z
+UID:boun-13442@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/sfl-summer-term-program-i-classes-end/13442
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-t
+ erm-program-i-classes-end/13442
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students admitted off the wait-list to major 
+ and minor programs to the Faculty Student Affairs officers
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260926T154212Z
+UID:boun-13440@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-
+ th/13440
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-admitted-off-th/13440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students admitted off the main list to major 
+ and minor programs to the Faculty Student Affairs officers
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+DTSTAMP:20260926T154212Z
+UID:boun-13430@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th
+ /13430
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-admitted-off-th/13430
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration day for students accepted from the main list through 
+ external transfer
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+DTSTAMP:20260926T154212Z
+UID:boun-13428@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-day-for-students-accepted-from-t
+ /13428
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -day-for-students-accepted-from-t/13428
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission system opens (10:00)
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+DTSTAMP:20260926T154212Z
+UID:boun-13432@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-system-opens-1000/13432
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-system-opens-1000/13432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final exams for Executive and Other Graduate Programs Summer Sessi
+ on
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260926T154212Z
+UID:boun-13434@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/
+ 13434
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-
+ for-executive-and-other-graduate-/13434
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students who have been accepted as internal t
+ ransfer students from the main list to the Faculty Student Affairs officer
+ s for department change
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+DTSTAMP:20260926T154212Z
+UID:boun-13426@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/application-date-for-students-who-have-been
+ -a/13426
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-who-have-been-a/13426
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Day of Course evaluations period (23:59) (Included SFL classe
+ s)
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+DTSTAMP:20260926T154212Z
+UID:boun-13423@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-in/
+ 13423
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-
+ course-evaluations-period-2359-in/13423
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer session classes for Executive and Other Graduate Programs e
+ nd
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+DTSTAMP:20260926T154212Z
+UID:boun-13421@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe/
+ 13421
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-sessi
+ on-classes-for-executive-and-othe/13421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Summer Term Program I-II classes end
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+DTSTAMP:20260926T154212Z
+UID:boun-13419@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/sfl-summer-term-program-i-ii-classes-end/13
+ 419
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-t
+ erm-program-i-ii-classes-end/13419
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for notification of acceptance decisions for internal and
+  external horizontal transfers to the Faculty Student Affairs Offices and 
+ the Directorate of Student Affairs
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+DTSTAMP:20260926T154212Z
+UID:boun-13417@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-notification-of-acceptance-dec
+ is/13417
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -notification-of-acceptance-decis/13417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Course evaluations period( Except SFL classes)
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270811
+DTSTAMP:20260926T154212Z
+UID:boun-13413@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/1
+ 3413
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalu
+ ations-period-except-sfl-classes/13413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transfer Applications with Central Points
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270817
+DTSTAMP:20260926T154212Z
+UID:boun-13415@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/transfer-applications-with-central-points/13415
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-app
+ lications-with-central-points/13415
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for course withdrawals for Executive and Other
+  Graduate Programs Summer Session closes to advisors (23:59)
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+DTSTAMP:20260926T154212Z
+UID:boun-13411@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-course-withdrawals-fo
+ /13411
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-course-withdrawals-fo/13411
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for course withdrawals for Executive and Other
+  Graduate Programs Summer Session closes to students (19:00)
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+DTSTAMP:20260926T154212Z
+UID:boun-13409@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-course-withdrawals-fo
+ /13409
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-course-withdrawals-fo/13409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Course withdrawals for Executive and Other Graduate Programs Summe
+ r Session
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270731
+DTSTAMP:20260926T154212Z
+UID:boun-13405@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/course-withdrawals-for-executive-and-other-gr
+ /13405
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withd
+ rawals-for-executive-and-other-gr/13405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system opens for course withdrawals for Executive and
+  Other Graduate Programs Summer Session (10:00)
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+DTSTAMP:20260926T154212Z
+UID:boun-13407@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-opens-for-course-withdraw
+ /13407
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-opens-for-course-withdraw/13407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Departmental exams for candidates applying to external transfers f
+ or 2027 Fall term
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+DTSTAMP:20260926T154212Z
+UID:boun-13401@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/
+ 13401
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental
+ -exams-for-candidates-applying-to/13401
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Course Evaluations Period
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260926T154212Z
+UID:boun-13403@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-course-evaluations-period/13403
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-e
+ valuations-period/13403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Departmental exams for candidates applying to external transfers f
+ or 2027 Fall term
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270724
+DTSTAMP:20260926T154212Z
+UID:boun-13399@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/
+ 13399
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental
+ -exams-for-candidates-applying-to/13399
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending applications for internal and external transf
+ ers to Faculties
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+DTSTAMP:20260926T154212Z
+UID:boun-13395@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-applications-for-inter
+ na/13395
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-applications-for-interna/13395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Democracy and Freedom Day (Holiday)
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+DTSTAMP:20260926T154212Z
+UID:boun-13393@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/democracy-and-freedom-day-holiday/13393
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-an
+ d-freedom-day-holiday/13393
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Institute Executive Committees to send admission deci
+ sions to Graduate Programs for 2027 Fall term to the Registrar
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+DTSTAMP:20260926T154212Z
+UID:boun-13387@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-institute-executive-committees
+ -t/13387
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -institute-executive-committees-t/13387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Graduate Programs to send 2027 Fall admission decisio
+ ns to Institutes
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+DTSTAMP:20260926T154212Z
+UID:boun-13377@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2027-f
+ /13377
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -graduate-programs-to-send-2027-f/13377
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for Summer Term add/drop closes to advisors ( 
+ 23:59)
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+DTSTAMP:20260926T154212Z
+UID:boun-13379@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-summer-term-adddrop-c
+ /13379
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-summer-term-adddrop-c/13379
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Requests Close for Students (Add/Drop Period) (20:0
+ 0)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260926T154212Z
+UID:boun-13371@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-
+ ad/13371
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-requests-close-for-students-ad/13371
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for Second Education Masters Programs Summer S
+ ession add/drop closes to students (23:59)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260926T154212Z
+UID:boun-13375@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-second-education-mast
+ /13375
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-second-education-mast/13375
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Announcement to send admission decisions to undergraduate programs
+  from abroad
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260926T154212Z
+UID:boun-13389@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/announcement-to-send-admission-decisions-to
+ -u/13389
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement
+ -to-send-admission-decisions-to-u/13389
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online payment system closes (16:00)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260926T154212Z
+UID:boun-13369@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-payment-system-closes-1600/13369
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payme
+ nt-system-closes-1600/13369
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Approval Close for Instructors (Add/Drop Period) (2
+ 2:00)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260926T154212Z
+UID:boun-13373@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors
+ /13373
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-approval-close-for-instructors/13373
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for cu
+ rriculum change\, introducing a new curriculum\, offering a new course\, c
+ hanges in course name\, code and/or content (to be put in effect starting 
+ 2028 Spring term) to the Rectorate
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+DTSTAMP:20260926T154212Z
+UID:boun-13383@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-
+ se/13383
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -facultiesschoolsinstitutes-to-se/13383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Executive and Other Graduate Programs Summer Session add/drop peri
+ od
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260926T154212Z
+UID:boun-13367@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-
+ /13367
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-an
+ d-other-graduate-programs-summer-/13367
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for international visitor students and exchange students 
+ admission decisions to Registrar and Office of International Relations
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+DTSTAMP:20260926T154212Z
+UID:boun-13385@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-international-visitor-students
+ -a/13385
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -international-visitor-students-a/13385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications for internal and external transfers
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270717
+DTSTAMP:20260926T154212Z
+UID:boun-13381@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/applications-for-internal-and-external-transf/13
+ 381
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications
+ -for-internal-and-external-transf/13381
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Executive and Other Graduate Programs Summer Session Add/Drop Peri
+ od Online payment system opens (10:00)
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+DTSTAMP:20260926T154212Z
+UID:boun-13361@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-
+ /13361
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-an
+ d-other-graduate-programs-summer-/13361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for University Executive Board meeting admission decision
+ s to undergraduate programs from abroad
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DTSTAMP:20260926T154212Z
+UID:boun-13363@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-university-executive-board-mee
+ ti/13363
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -university-executive-board-meeti/13363
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Announcement of Placement Exam (DBS) results
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DTSTAMP:20260926T154212Z
+UID:boun-13365@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-announcement-of-placement-exam-dbs-result/13365
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announce
+ ment-of-placement-exam-dbs-result/13365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DTSTAMP:20260926T154212Z
+UID:boun-13353@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-/
+ 13353
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-an
+ d-other-graduate-programs-summer-/13353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for Summer Term closes to advisors (12:00)
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+DTSTAMP:20260926T154212Z
+UID:boun-13351@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-summer-term-closes-to
+ /13351
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-summer-term-closes-to/13351
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Commission meeting admission decisions to undergradua
+ te programs from abroad
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+DTSTAMP:20260926T154212Z
+UID:boun-13323@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-commission-meeting-admission-d
+ ec/13323
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -commission-meeting-admission-dec/13323
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the
+  Graduate Preparatory Class)(10:00)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T154212Z
+UID:boun-13317@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/english-language-placement-exam-dbs-candidate/13317
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-lang
+ uage-placement-exam-dbs-candidate/13317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Approval Close for Instructors (22:00)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T154212Z
+UID:boun-13343@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors
+ /13343
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-approval-close-for-instructors/13343
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Summer Term Lesson Begin (All Programs)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T154212Z
+UID:boun-13319@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-summer-term-lesson-begin-all-programs/13319
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-t
+ erm-lesson-begin-all-programs/13319
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Requests Close for Students (20:00)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T154212Z
+UID:boun-13341@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-
+ 20/13341
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-requests-close-for-students-20/13341
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Departmental exams for candidates applying to graduate programs
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+DTSTAMP:20260926T154212Z
+UID:boun-13347@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/
+ 13347
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental
+ -exams-for-candidates-applying-to/13347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online payment system closes (16:00)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T154212Z
+UID:boun-13339@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-payment-system-closes-1600/13339
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payme
+ nt-system-closes-1600/13339
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the list of instructors with foreign national
+ ities to be employed in the 2028 Spring term to the Rectorate
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T154212Z
+UID:boun-13359@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructor
+ s-/13359
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-list-of-instructors-/13359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for Summer Term closes to students (23:59)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T154212Z
+UID:boun-13345@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-summer-term-closes-to
+ /13345
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-summer-term-closes-to/13345
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to t
+ he Registrar
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+DTSTAMP:20260926T154212Z
+UID:boun-13313@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-ex
+ am/13313
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-english-proficiency-exam/13313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for Executive and Other Graduate Programs Summ
+ er Session opens (10:00)
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T154212Z
+UID:boun-13337@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-executive-and-other-g
+ /13337
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-executive-and-other-g/13337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to send admission decisions to undergraduate programs fro
+ m abroad to the Rectorate
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+DTSTAMP:20260926T154212Z
+UID:boun-13357@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-to-send-admission-decisions-to-und
+ er/13357
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-
+ send-admission-decisions-to-under/13357
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for Summer Term
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T154212Z
+UID:boun-13335@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-summer-term/13335
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-summer-term/13335
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Graduate Programs to send 2026 Fall admission decisio
+ ns to Institutes
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+DTSTAMP:20260926T154212Z
+UID:boun-13333@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2026
+ -f/13333
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -graduate-programs-to-send-2026-f/13333
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending applications to undergraduate programs from a
+ broad to the Faculties
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20260926T154212Z
+UID:boun-13315@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-applications-to-underg
+ ra/13315
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-applications-to-undergra/13315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online payment system opens for registration for Summer term (10:0
+ 0)
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+DTSTAMP:20260926T154212Z
+UID:boun-13310@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-payment-system-opens-for-registration-
+ /13310
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payme
+ nt-system-opens-for-registration-/13310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline applications for graduate programs for 2027 Fall term
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+DTSTAMP:20260926T154212Z
+UID:boun-13306@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-applications-for-graduate-programs
+ -f/13306
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-app
+ lications-for-graduate-programs-f/13306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application deadline for the admission of international students t
+ o undergraduate programs for the 2027–2028 academic year.
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20260926T154212Z
+UID:boun-13302@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/application-deadline-for-the-admission-of-int/13
+ 302
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ deadline-for-the-admission-of-int/13302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for international exchange and visitor students applicati
+ ons for Fall term
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20260926T154212Z
+UID:boun-13300@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-vis
+ it/13300
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -international-exchange-and-visit/13300
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commencement Ceremony
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270529
+DTSTAMP:20260926T154212Z
+UID:boun-13321@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/commencement-ceremony/13321
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement
+ -ceremony/13321
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commemoration of Atatürk\, Youth and Sports Day (Holiday)
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+DTSTAMP:20260926T154212Z
+UID:boun-13286@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/commemoration-of-ataturk-youth-and-sports-d
+ ay/13286
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoratio
+ n-of-ataturk-youth-and-sports-day/13286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Religious Holiday
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270520
+DTSTAMP:20260926T154212Z
+UID:boun-13284@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/religious-holiday/13284
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-ho
+ liday/13284
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Religious Holiday (After 13:00)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20260926T154212Z
+UID:boun-13282@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/religious-holiday-after-1300/13282
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-ho
+ liday-after-1300/13282
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Executive Committees to make graduation decisions
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+DTSTAMP:20260926T154212Z
+UID:boun-13355@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-executive-committees-to-make-g
+ ra/13355
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -executive-committees-to-make-gra/13355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Proficiency Exam (BUEPT)
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+DTSTAMP:20260926T154212Z
+UID:boun-13298@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/english-proficiency-exam-buept/13298
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-prof
+ iciency-exam-buept/13298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission resumes (for students who received I signs only) 
+ (10:00)
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20260926T154212Z
+UID:boun-13327@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/
+ 13327
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-resumes-for-students-who-rec/13327
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission resumes (for students who received I signs only) 
+ (Close 23:59)
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20260926T154212Z
+UID:boun-13607@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/
+ 13607
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-resumes-for-students-who-rec/13607
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission ends (23:59)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20260926T154212Z
+UID:boun-13325@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-ends-2359/13325
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-ends-2359/13325
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Course Evaluations Period End (23:59)
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260926T154212Z
+UID:boun-13296@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-course-evaluations-period-end-2359/13296
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-e
+ valuations-period-end-2359/13296
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the Registrar the minimum admission criteria 
+ (GPA\, etc.) and departmental exam dates for internal\, external transfers
+  and minor programs and applications to double-major programs for 2027 Fal
+ l term
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260926T154212Z
+UID:boun-13267@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-registrar-the-mini
+ mu/13267
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-registrar-the-minimu/13267
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Classes End (for all programs)
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260926T154212Z
+UID:boun-13294@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-classes-end-for-all-programs/13294
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-classes-
+ end-for-all-programs/13294
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E and make-up exams
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260926T154212Z
+UID:boun-13308@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/e-and-make-up-exams/13308
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-u
+ p-exams/13308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meeting of Excuse Commission (14:00)
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DTSTAMP:20260926T154212Z
+UID:boun-13304@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1400/13304
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-e
+ xcuse-commission-1400/13304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties/Schools/Institutes to send 2027 Fall term c
+ ourse schedule to the Registrar
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20260926T154212Z
+UID:boun-13259@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-
+ se/13259
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -facultiesschoolsinstitutes-to-se/13259
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Labor Day (Holiday)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20260926T154212Z
+UID:boun-13257@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/labor-day-holiday/13257
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-ho
+ liday/13257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final exams (Sunday\, April 25\, 2026: the 3rd and 4th time slots 
+ will be used for Culture and Language courses)
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270505
+DTSTAMP:20260926T154212Z
+UID:boun-13292@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/final-exams-sunday-april-25-2026-the-3rd-and-/
+ 13292
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-
+ sunday-april-25-2026-the-3rd-and-/13292
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission system opens (10:00)
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+DTSTAMP:20260926T154212Z
+UID:boun-13290@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-system-opens-1000/13290
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-system-opens-1000/13290
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final exams for culture and language courses (including HUM course
+ s) Final exams (Sunday\, April 25\, 2026: the 3rd and 4th time slots will 
+ be used for Culture and Language courses)
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20260926T154212Z
+UID:boun-13288@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/
+ 13288
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-
+ for-culture-and-language-courses-/13288
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Sovereignty and Children's Day (Holiday)
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+DTSTAMP:20260926T154212Z
+UID:boun-13253@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/national-sovereignty-and-childrens-day-holi
+ da/13253
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sov
+ ereignty-and-childrens-day-holida/13253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Day of Course evaluations period (23:59)( Except SFL classes)
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+DTSTAMP:20260926T154212Z
+UID:boun-13280@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-ex/
+ 13280
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-
+ course-evaluations-period-2359-ex/13280
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classes end
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+DTSTAMP:20260926T154212Z
+UID:boun-13278@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/classes-end/13278
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/
+ 13278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Course Evaluations Period
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260926T154212Z
+UID:boun-13261@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-course-evaluations-period/13261
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-e
+ valuations-period/13261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for leave of absence requests
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+DTSTAMP:20260926T154212Z
+UID:boun-13276@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/13276
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -leave-of-absence-requests/13276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications for graduate programs for 2027 Fall term
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270611
+DTSTAMP:20260926T154212Z
+UID:boun-13242@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/applications-for-graduate-programs-for-2027-f/13
+ 242
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications
+ -for-graduate-programs-for-2027-f/13242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Executive Graduate Programs to send Summer term cours
+ e schedule to the Registrar
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+DTSTAMP:20260926T154212Z
+UID:boun-13234@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-executive-graduate-programs-to
+ -s/13234
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -executive-graduate-programs-to-s/13234
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Course evaluations period( Except SFL classes)
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270424
+DTSTAMP:20260926T154212Z
+UID:boun-13255@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/1
+ 3255
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalu
+ ations-period-except-sfl-classes/13255
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Requests Close for Students (Pre-registration for s
+ ummer term) (16:00)
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260926T154212Z
+UID:boun-13271@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-
+ pr/13271
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-requests-close-for-students-pr/13271
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online payment system closes for Pre-registration for Summer term 
+ (16:00)
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260926T154212Z
+UID:boun-13269@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-payment-system-closes-for-pre-registra
+ /13269
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payme
+ nt-system-closes-for-pre-registra/13269
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to students for pre-registration for su
+ mmer term (19:00)
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260926T154212Z
+UID:boun-13274@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-students-for-pr
+ /13274
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-students-for-pr/13274
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Approval Close for Instructors (Pre-registration fo
+ r summer term) (18:00)
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260926T154212Z
+UID:boun-13273@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructo
+ rs/13273
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-approval-close-for-instructors/13273
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system opens for Pre-registration for Summer term (10
+ :00)
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+DTSTAMP:20260926T154212Z
+UID:boun-13265@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-opens-for-pre-registratio
+ /13265
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-opens-for-pre-registratio/13265
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-registration for Summer Term
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260926T154212Z
+UID:boun-13263@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/pre-registration-for-summer-term/13263
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/pre-registra
+ tion-for-summer-term/13263
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application period for students applying to undergraduate programs
+  from abroad for 2027-2028 Academic Year
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20260926T154212Z
+UID:boun-13228@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/application-period-for-students-applying-to-u/13
+ 228
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ period-for-students-applying-to-u/13228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications for Executive and Other Graduate Programs for 2027 Fa
+ ll term
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270611
+DTSTAMP:20260926T154212Z
+UID:boun-13226@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/13
+ 226
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications
+ -for-executive-and-other-graduate/13226
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to advisors for course withdrawals (23:
+ 59)
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260926T154212Z
+UID:boun-13246@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-advisors-for-co
+ /13246
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-advisors-for-co/13246
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Institute Directorates to notify the Institute Studen
+ t Affairs officers and the Registrar's Office about section changes for th
+ esis courses (690\, 790)
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260926T154212Z
+UID:boun-13251@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-institute-directorates-to-noti
+ fy/13251
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -institute-directorates-to-notify/13251
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties/Schools/Institutes to apply to University E
+ xecutive Committee for changes in final exam dates for 2026 Spring term
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260926T154212Z
+UID:boun-13248@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-
+ ap/13248
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -facultiesschoolsinstitutes-to-ap/13248
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to students for course withdrawals (23:
+ 59)
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+DTSTAMP:20260926T154212Z
+UID:boun-13244@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-students-for-co
+ /13244
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-students-for-co/13244
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the 2027 Fall term schedule for mass courses 
+ to the Registrar
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+DTSTAMP:20260926T154212Z
+UID:boun-13224@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-2027-fall-term-sch
+ ed/13224
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-2027-fall-term-sched/13224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student consultations with academic advisors
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+DTSTAMP:20260926T154212Z
+UID:boun-13240@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/student-consultations-with-academic-advisor
+ s/13240
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-cons
+ ultations-with-academic-advisors/13240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Course withdrawal period
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260926T154212Z
+UID:boun-13230@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/course-withdrawal-period/13230
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withd
+ rawal-period/13230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system opens for course withdrawals (10:00)
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260926T154212Z
+UID:boun-13232@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-opens-for-course-withdraw
+ /13232
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-opens-for-course-withdraw/13232
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for cu
+ rriculum change\, introducing a new curriculum\, offering a new course\, c
+ hanges in course name\, code and/or content (to be put in effect starting 
+ 2027 Fall term) to the Rectorate
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20260926T154212Z
+UID:boun-13222@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-
+ se/13222
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -facultiesschoolsinstitutes-to-se/13222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online payment system opens for Pre-registration for Summer term (
+ 10:00)
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+DTSTAMP:20260926T154212Z
+UID:boun-13238@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-payment-system-opens-for-pre-registrat
+ /13238
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payme
+ nt-system-opens-for-pre-registrat/13238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Announcement of the courses to be opened by the Summer Term Office
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+DTSTAMP:20260926T154212Z
+UID:boun-13236@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/announcement-of-the-courses-to-be-opened-by
+ -t/13236
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement
+ -of-the-courses-to-be-opened-by-t/13236
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Break / Religious Holiday
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270313
+DTSTAMP:20260926T154212Z
+UID:boun-13220@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/spring-break-religious-holiday/13220
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break
+ -religious-holiday/13220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to advisors for add/drop (23:59)
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+DTSTAMP:20260926T154212Z
+UID:boun-13218@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-advisors-for-ad
+ /13218
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-advisors-for-ad/13218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online payment system closes for add/drop (17:00)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+DTSTAMP:20260926T154212Z
+UID:boun-13603@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-payment-system-closes-for-adddrop-1700
+ /13603
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payme
+ nt-system-closes-for-adddrop-1700/13603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to students for add/drop (23:59)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+DTSTAMP:20260926T154212Z
+UID:boun-13216@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-students-for-ad
+ /13216
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-students-for-ad/13216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Requests Close for Students Add/Drop (14:00)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+DTSTAMP:20260926T154212Z
+UID:boun-14214@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-
+ ad/14214
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-requests-close-for-students-ad/14214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Approval Close for Instructors Add/Drop (21:00)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+DTSTAMP:20260926T154212Z
+UID:boun-13214@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructo
+ rs/13214
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-approval-close-for-instructors/13214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system opens for add/drop (10:00)
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+DTSTAMP:20260926T154212Z
+UID:boun-13210@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-opens-for-adddrop-1000/13
+ 210
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-opens-for-adddrop-1000/13210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Add/drop period
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270128
+DTSTAMP:20260926T154212Z
+UID:boun-13208@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/adddrop-period/13208
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/adddrop-peri
+ od/13208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the admission quota and departmental exam dat
+ e for graduate programs to the Registrar in the 2027 Fall term
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+DTSTAMP:20260926T154212Z
+UID:boun-13160@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-an
+ d-/13160
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-admission-quota-and-/13160
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the minimum application criteria for graduate
+  programs for 2027-2028 academic year to the Registrar
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+DTSTAMP:20260926T154212Z
+UID:boun-13158@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-applicatio
+ n-/13158
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-minimum-application-/13158
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classes begin (Including SFL classes)
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DTSTAMP:20260926T154212Z
+UID:boun-13206@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/classes-begin-including-sfl-classes/13206
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begi
+ n-including-sfl-classes/13206
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to advisors (23:59)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20260926T154212Z
+UID:boun-13204@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-system-closes-to-advisors-2359
+ /13204
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-advisors-2359/13204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Approval Close for Instructors (21:00)
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260926T154212Z
+UID:boun-13200@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors
+ /13200
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-approval-close-for-instructors/13200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to students (23:59)
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260926T154212Z
+UID:boun-13202@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-students-2359/1
+ 3202
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-students-2359/13202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Requests Close for Students (14:00)
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260926T154212Z
+UID:boun-13212@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-
+ 14/13212
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-requests-close-for-students-14/13212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the list of instructors with foreign national
+ ities to be employed in the Summer term to the Rectorate
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260926T154212Z
+UID:boun-13142@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructor
+ s-/13142
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-list-of-instructors-/13142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student consultations with academic advisors
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+DTSTAMP:20260926T154212Z
+UID:boun-13196@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/student-consultations-with-academic-advisor
+ s/13196
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-cons
+ ultations-with-academic-advisors/13196
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\,
+  Physics waiver exams for new undergraduate students
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+DTSTAMP:20260926T154212Z
+UID:boun-13194@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/chemistry-computer-engineering-molecular-biol/
+ 13194
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-co
+ mputer-engineering-molecular-biol/13194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Registration Period
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260926T154212Z
+UID:boun-13190@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-registration-period/13190
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-regis
+ tration-period/13190
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system opens (10:00)
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+DTSTAMP:20260926T154212Z
+UID:boun-13192@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-opens-1000/13192
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-opens-1000/13192
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Orientation day for visitor students and exchange students
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+DTSTAMP:20260926T154212Z
+UID:boun-13188@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/
+ 13188
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orien
+ tation-day-for-visitor-students-a/13188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students who have been accepted on waiting li
+ st for internal transfer to the Faculty Student Affairs for a change of de
+ partment
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+DTSTAMP:20260926T154212Z
+UID:boun-14212@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/application-date-for-students-who-have-been
+ -a/14212
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-who-have-been-a/14212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for entry of class quotas by academic units (17:00)
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+DTSTAMP:20260926T154212Z
+UID:boun-13186@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-acade
+ mi/13186
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -entry-of-class-quotas-by-academi/13186
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration for new graduate students admitted off the wait-list
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+DTSTAMP:20260926T154212Z
+UID:boun-13182@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-for-new-graduate-students-admitt
+ /13182
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -for-new-graduate-students-admitt/13182
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of newly admitted graduate students on primary list
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260926T154212Z
+UID:boun-13172@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude
+ /13172
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-newly-admitted-graduate-stude/13172
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students who have been accepted for internal 
+ transfer to the Faculty Student Affairs for a change of department
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260926T154212Z
+UID:boun-13174@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/application-date-for-students-who-have-been
+ -a/13174
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-who-have-been-a/13174
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for special students (enrolled in domestic universities) 
+ applications
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260926T154212Z
+UID:boun-13176@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/deadline-for-special-students-enrolled-in-dom/13
+ 176
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -special-students-enrolled-in-dom/13176
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration for international guest and exchange students
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270113
+DTSTAMP:20260926T154212Z
+UID:boun-13180@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-for-international-guest-and-exch
+ /13180
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -for-international-guest-and-exch/13180
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online registration date for students admitted off the wait-list t
+ o major and minor programs (10:00 – 23:59)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20260926T154212Z
+UID:boun-13184@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-registration-date-for-students-admit
+ te/13184
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-regis
+ tration-date-for-students-admitte/13184
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online registration date for students admitted off the main list t
+ o major and minor programs (10:00 – 23:59)
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260926T154212Z
+UID:boun-13178@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-registration-date-for-students-admit
+ te/13178
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-regis
+ tration-date-for-students-admitte/13178
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties to send admission acceptance decisions on d
+ ouble-major\, minor to the Faculty Student Affairs via the online applicat
+ ion system.
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+DTSTAMP:20260926T154212Z
+UID:boun-14210@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-ac
+ ce/14210
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -faculties-to-send-admission-acce/14210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online payment system opens (10:00)
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+DTSTAMP:20260926T154212Z
+UID:boun-13170@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-payment-system-opens-1000/13170
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payme
+ nt-system-opens-1000/13170
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties to send admission decisions on internal tra
+ nsfer to the Faculty Student Affairs officers and Deadline for Institutes 
+ to send admission decisions graduate programs to the Registrar
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+DTSTAMP:20260926T154212Z
+UID:boun-13168@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-de
+ ci/13168
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -faculties-to-send-admission-deci/13168
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the list of instructors with foreign national
+ ities to be employed in the 2027 Fall term to the Rectorate
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DTSTAMP:20260926T154212Z
+UID:boun-13122@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructor
+ s-/13122
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-list-of-instructors-/13122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to apply to double-major programs and minor programs
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20260926T154212Z
+UID:boun-13162@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13
+ 162
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-
+ apply-to-double-major-programs-an/13162
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Year (Holiday)
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260926T154212Z
+UID:boun-13120@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/new-year-holiday/13120
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/new-year-hol
+ iday/13120
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Program I classes end
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260926T154212Z
+UID:boun-13144@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-program-i-classes-end/13144
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-program-
+ i-classes-end/13144
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to t
+ he Registrar (14:00) 
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260926T154212Z
+UID:boun-13163@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-ex
+ am/13163
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-english-proficiency-exam/13163
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission resumes (for students who received I signs only) 
+ (Open 10:00)
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20260926T154212Z
+UID:boun-13152@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/
+ 13152
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-resumes-for-students-who-rec/13152
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Departmental exams for candidates applying for 2027 Spring term to
+  graduate programs
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20260926T154212Z
+UID:boun-14208@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/
+ 14208
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental
+ -exams-for-candidates-applying-fo/14208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission resumes (for students who received I signs only) 
+ (Close 23:59)
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20260926T154212Z
+UID:boun-13154@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/
+ 13154
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-resumes-for-students-who-rec/13154
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications period for internal transfer
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20260926T154212Z
+UID:boun-13150@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/applications-period-for-internal-transfer/1
+ 3150
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications
+ -period-for-internal-transfer/13150
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission ends (23:59)
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+DTSTAMP:20260926T154212Z
+UID:boun-13146@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-ends-2359/13146
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-ends-2359/13146
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Departmental exams for candidates applying for 2027 Spring term to
+  graduate programs
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260926T154212Z
+UID:boun-13148@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/
+ 13148
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental
+ -exams-for-candidates-applying-fo/13148
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Course Evaluations Period End (23:59)
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260926T154212Z
+UID:boun-13126@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-course-evaluations-period-end-2359/13126
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-e
+ valuations-period-end-2359/13126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Proficiency Exam (BUEPT)
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260926T154212Z
+UID:boun-13132@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/english-proficiency-exam-buept/13132
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-prof
+ iciency-exam-buept/13132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Announcement of Placement Exam (DBS) results
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260926T154212Z
+UID:boun-13140@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-announcement-of-placement-exam-dbs-result/13140
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announce
+ ment-of-placement-exam-dbs-result/13140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E and make-up exams
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260926T154212Z
+UID:boun-13134@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/e-and-make-up-exams/13134
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-u
+ p-exams/13134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Program II\,III and IV classes end
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260926T154212Z
+UID:boun-13124@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-program-iiiii-and-iv-classes-end/13124
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-program-
+ iiiii-and-iv-classes-end/13124
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the
+  Graduate Preparatory Class)(10:00)
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260926T154212Z
+UID:boun-13138@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/english-language-placement-exam-dbs-candidate/13138
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-lang
+ uage-placement-exam-dbs-candidate/13138
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Graduate Programs to send admission decisions to Inst
+ itutes
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260926T154212Z
+UID:boun-13136@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-admi
+ ss/13136
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -graduate-programs-to-send-admiss/13136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meeting of Excuse Commission (13:30)
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260926T154212Z
+UID:boun-13128@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1330/13128
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-e
+ xcuse-commission-1330/13128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending date changes of courses to the Registrar in t
+ he 2026/2027 Spring
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+DTSTAMP:20260926T154212Z
+UID:boun-13156@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-course
+ s-/13156
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-date-changes-of-courses-/13156
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications to graduate programs for 2027 Spring term
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260926T154212Z
+UID:boun-13118@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/applications-to-graduate-programs-for-2027-sp/13
+ 118
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications
+ -to-graduate-programs-for-2027-sp/13118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final exams (Sunday\, December 13\, 2026: the 3rd and 4th time slo
+ ts will be used for Culture and Language courses).
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260926T154212Z
+UID:boun-13112@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/final-exams-sunday-december-13-2026-the-3rd-a/
+ 13112
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-
+ sunday-december-13-2026-the-3rd-a/13112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission system opens (10 a.m.)
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260926T154212Z
+UID:boun-13110@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-system-opens-10-am/13110
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-system-opens-10-am/13110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final exams for culture and language courses (including HUM course
+ s) Final exams (Sunday\, December 13\, 2026: the 3rd and 4th time slots wi
+ ll be used for Culture and Language courses).
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20260926T154212Z
+UID:boun-13108@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/
+ 13108
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-
+ for-culture-and-language-courses-/13108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application period to double-major programs and minor programs
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20260926T154212Z
+UID:boun-13130@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13
+ 130
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ period-to-double-major-programs-a/13130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Day of Course evaluations period (23:59)( Except SFL classes)
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260926T154212Z
+UID:boun-13104@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-ex/
+ 13104
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-
+ course-evaluations-period-2359-ex/13104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classes end
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260926T154212Z
+UID:boun-13102@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/classes-end/13102
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/
+ 13102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the Summer Term course schedule to the Regist
+ rar
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260926T154212Z
+UID:boun-13100@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-summer-term-course
+ -s/13100
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-summer-term-course-s/13100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Course Evaluations Period
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260926T154212Z
+UID:boun-13106@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-course-evaluations-period/13106
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-e
+ valuations-period/13106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for leave of absence requests
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260926T154212Z
+UID:boun-13098@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/1309
+ 8
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -leave-of-absence-requests/13098
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Course evaluations period( Except SFL classes)
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260926T154212Z
+UID:boun-13096@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/1
+ 3096
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalu
+ ations-period-except-sfl-classes/13096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for notifying the Registrar and the Office of the General
+  Coordinator for International Relations of the admission decisions for in
+ ternational visiting students and international exchange students
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260926T154212Z
+UID:boun-13091@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-notifying-the-registrar-and-th
+ e-/13091
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -notifying-the-registrar-and-the-/13091
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Institute Directorates to notify the Institute Studen
+ t Affairs officers and the Registrar about section changes for thesis cour
+ ses (690\, 790)
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20260926T154212Z
+UID:boun-13087@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-institute-directorates-to-noti
+ fy/13087
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -institute-directorates-to-notify/13087
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for applying to the University Executive Committee for ch
+ anges in final exam dates to the Rectorate
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20260926T154212Z
+UID:boun-13084@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-applying-to-the-university-exe
+ cu/13084
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -applying-to-the-university-execu/13084
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to advisors for course withdrawals (23:
+ 59)
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DTSTAMP:20260926T154212Z
+UID:boun-13089@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-advisors-for-co
+ /13089
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-advisors-for-co/13089
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to students for course withdrawals (23:
+ 59)
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20260926T154212Z
+UID:boun-13082@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-students-for-co
+ /13082
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-students-for-co/13082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student consultations with academic advisors
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20260926T154212Z
+UID:boun-13080@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/student-consultations-with-academic-advisor
+ s/13080
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-cons
+ ultations-with-academic-advisors/13080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atatürk Memorial Day
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20260926T154212Z
+UID:boun-13060@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/ataturk-memorial-day/13060
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/ataturk-memo
+ rial-day/13060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system opens for course withdrawals (10:00)
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260926T154212Z
+UID:boun-13078@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-opens-for-course-withdraw
+ /13078
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-opens-for-course-withdraw/13078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Course withdrawal period
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+DTSTAMP:20260926T154212Z
+UID:boun-13076@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/course-withdrawal-period/13076
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withd
+ rawal-period/13076
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties/Schools/Institutes to send Spring term all 
+ courses schedule to the Registrar
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20260926T154212Z
+UID:boun-13064@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-
+ se/13064
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -facultiesschoolsinstitutes-to-se/13064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Republic Day after 1 p.m. (Holiday)
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260926T154212Z
+UID:boun-13052@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/republic-day-after-1-pm-holiday/13052
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day
+ -after-1-pm-holiday/13052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the minimum application criteria and quota fo
+ r internal transfers and applications to double-major programs and minor p
+ rograms for Spring term to the Registrar
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20260926T154212Z
+UID:boun-13062@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-applicatio
+ n-/13062
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-minimum-application-/13062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for international exchange and visitor students applicati
+ ons for Spring term
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260926T154212Z
+UID:boun-12099@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-vis
+ it/12099
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -international-exchange-and-visit/12099
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the spring term schedule for mass courses to 
+ the Registrar
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+DTSTAMP:20260926T154212Z
+UID:boun-13050@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-spring-term-schedu
+ le/13050
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-spring-term-schedule/13050
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to advisors for add/drop (23:59)
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+DTSTAMP:20260926T154212Z
+UID:boun-13048@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-advisors-for-ad
+ /13048
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-advisors-for-ad/13048
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Approval Close for Instructors (Add/Drop Period) (2
+ 1:00)
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260926T154212Z
+UID:boun-13044@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructo
+ rs/13044
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-approval-close-for-instructors/13044
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Requests Close for Students (Add/Drop Period) (14:0
+ 0)
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260926T154212Z
+UID:boun-13042@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-
+ ad/13042
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-requests-close-for-students-ad/13042
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online payment system closes (17:00)
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260926T154212Z
+UID:boun-13040@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-payment-system-closes-1700/13040
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payme
+ nt-system-closes-1700/13040
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to students for add/drop (23:59)
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260926T154212Z
+UID:boun-13046@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-students-for-ad
+ /13046
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-students-for-ad/13046
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student consultations with academic advisors
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260926T154212Z
+UID:boun-13038@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/student-consultations-with-academic-advisor
+ s/13038
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-cons
+ ultations-with-academic-advisors/13038
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Add/drop period
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260926T154212Z
+UID:boun-13034@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/adddrop-period/13034
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/adddrop-peri
+ od/13034
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system opens for add/drop (10 a.m.)
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260926T154212Z
+UID:boun-13036@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-opens-for-adddrop-10-am/1
+ 3036
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-opens-for-adddrop-10-am/13036
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Begining of the SFL Classes
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DTSTAMP:20260926T154212Z
+UID:boun-13032@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/begining-of-the-sfl-classes/13032
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/begining-of-
+ the-sfl-classes/13032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Announcement of Placement Exam (DBS) results
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260926T154212Z
+UID:boun-13030@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-announcement-of-placement-exam-dbs-result/13030
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announce
+ ment-of-placement-exam-dbs-result/13030
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classes begin (Except SFL classes)
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260926T154212Z
+UID:boun-13024@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/classes-begin-except-sfl-classes/13024
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begi
+ n-except-sfl-classes/13024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Language Placement Exam (DBS) (10:00)
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260926T154212Z
+UID:boun-13026@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/english-language-placement-exam-dbs-1000/13026
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-lang
+ uage-placement-exam-dbs-1000/13026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commencement Ceremony for Second Education Masters Programs (End o
+ f the Summer Term)
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20260926T154212Z
+UID:boun-12098@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/commencement-ceremony-for-second-education-
+ ma/12098
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement
+ -ceremony-for-second-education-ma/12098
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to advisors (23:59)
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260926T154212Z
+UID:boun-13020@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-system-closes-to-advisors-2359
+ /13020
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-advisors-2359/13020
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\,
+  Physics waiver exams
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260926T154212Z
+UID:boun-13022@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/chemistry-computer-engineering-molecular-biol/
+ 13022
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-co
+ mputer-engineering-molecular-biol/13022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Approval Close for Instructors (21:00)
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260926T154212Z
+UID:boun-13016@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors
+ /13016
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-approval-close-for-instructors/13016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consent Requests Close for Students (14:00)
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260926T154212Z
+UID:boun-13014@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-consent-requests-close-for-students-14
+ /13014
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-conse
+ nt-requests-close-for-students-14/13014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system closes to students (23:59)
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260926T154212Z
+UID:boun-13018@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-closes-to-students-2359/1
+ 3018
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-closes-to-students-2359/13018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student consultations with academic advisors
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260926T154212Z
+UID:boun-13012@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/student-consultations-with-academic-advisor
+ s/13012
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-cons
+ ultations-with-academic-advisors/13012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system opens (10:00)
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20260926T154212Z
+UID:boun-13010@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-opens-1000/13010
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-opens-1000/13010
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Registration Period
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260918
+DTSTAMP:20260926T154212Z
+UID:boun-13008@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-registration-period/13008
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-regis
+ tration-period/13008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for entry of class quotas by academic units (17:00)
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260926T154212Z
+UID:boun-13006@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-acade
+ mi/13006
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -entry-of-class-quotas-by-academi/13006
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to t
+ he Registrar (15:00)
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260926T154212Z
+UID:boun-13002@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-ex
+ am/13002
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-english-proficiency-exam/13002
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Orientation day for visitor students and exchange students
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260926T154212Z
+UID:boun-13004@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/
+ 13004
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orien
+ tation-day-for-visitor-students-a/13004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of students admitted from the waiting list through th
+ e second application period for international undergraduate admissions.
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260911
+DTSTAMP:20260926T154212Z
+UID:boun-13963@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-of-students-admitted-from-the-
+ wa/13963
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-students-admitted-from-the-wa/13963
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online payment system opens (10:00)
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260926T154212Z
+UID:boun-12999@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-payment-system-opens-1000/12999
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payme
+ nt-system-opens-1000/12999
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Proficiency Exam (BUEPT)
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260926T154212Z
+UID:boun-13000@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/english-proficiency-exam-buept/13000
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-prof
+ iciency-exam-buept/13000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for guest students (enrolled in domestic universities) ap
+ plications
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20260926T154212Z
+UID:boun-12096@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-dom
+ es/12096
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -guest-students-enrolled-in-domes/12096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of newly admitted graduate students on waiting list
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20260926T154212Z
+UID:boun-12094@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stu
+ de/12094
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-newly-admitted-graduate-stude/12094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of students admitted from the main list through the s
+ econd application period for international undergraduate admissions.
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260926T154212Z
+UID:boun-13962@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-of-students-admitted-from-the-
+ ma/13962
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-students-admitted-from-the-ma/13962
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of transfer students accepted with central points
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+DTSTAMP:20260926T154212Z
+UID:boun-12093@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-of-transfer-students-accepted-
+ wi/12093
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-transfer-students-accepted-wi/12093
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of newly admitted graduate students on primary list
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260904
+DTSTAMP:20260926T154212Z
+UID:boun-12092@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stu
+ de/12092
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-newly-admitted-graduate-stude/12092
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Announcement of transfer acceptances with central points
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260926T154212Z
+UID:boun-12091@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/announcement-of-transfer-acceptances-with-c
+ en/12091
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement
+ -of-transfer-acceptances-with-cen/12091
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victory Day (Holiday)
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260926T154212Z
+UID:boun-12090@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/victory-day-holiday/12090
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-
+ holiday/12090
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending date changes of courses to the Registrar in t
+ he 2026/2027 Fall
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260926T154212Z
+UID:boun-12089@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-course
+ s-/12089
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-date-changes-of-courses-/12089
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for the University Executive Board meeting for central tr
+ ansfer admission decisions
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260926T154212Z
+UID:boun-12088@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board
+ -m/12088
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -the-university-executive-board-m/12088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for sending the English Proficiency Exam (BUEPT) results 
+ to the Registrar (SFL Summer)
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260926T154212Z
+UID:boun-12087@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-sending-the-english-proficienc
+ y-/12087
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -sending-the-english-proficiency-/12087
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for the meeting of the Commission to evaluate the applica
+ nts with the central transfer score
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+DTSTAMP:20260926T154212Z
+UID:boun-12086@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-the-meeting-of-the-commission-
+ to/12086
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -the-meeting-of-the-commission-to/12086
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission system closes (23:59)
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260926T154212Z
+UID:boun-12085@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-system-closes-2359/12085
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-system-closes-2359/12085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Registration for international visitor students and exchang
+ e students
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+DTSTAMP:20260926T154212Z
+UID:boun-12084@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/online-registration-for-international-visit
+ or/12084
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-regis
+ tration-for-international-visitor/12084
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Proficiency Exam (BUEPT) (SFL Summer)
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260926T154212Z
+UID:boun-12083@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/english-proficiency-exam-buept-sfl-summer/12083
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-prof
+ iciency-exam-buept-sfl-summer/12083
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Summer Term Program I classes end
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260926T154212Z
+UID:boun-12082@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-summer-term-program-i-classes-end/12082
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-t
+ erm-program-i-classes-end/12082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Announcement of the international undergraduate admission results 
+ for the second application period.
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260926T154212Z
+UID:boun-13961@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/announcement-of-the-international-undergrad
+ ua/13961
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement
+ -of-the-international-undergradua/13961
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final exams for Executive and Other Graduate Programs Summer Sessi
+ on
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260926T154212Z
+UID:boun-12080@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/
+ 12080
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-
+ for-executive-and-other-graduate-/12080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grade submission system opens (10:00)
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260926T154212Z
+UID:boun-12079@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/grade-submission-system-opens-1000/12079
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submis
+ sion-system-opens-1000/12079
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Day of Course evaluations period (23:59) (Included SFL classe
+ s)
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260926T154212Z
+UID:boun-12078@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/last-day-of-course-evaluations-period-2359-in/12078
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-
+ course-evaluations-period-2359-in/12078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer session classes for Executive and Other Graduate Programs e
+ nd
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260926T154212Z
+UID:boun-12077@bogazici.edu.tr
+DESCRIPTION:Category: Instruction\nDetails: https://akademiktakvim.bogazic
+ i.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe/
+ 12077
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-sessi
+ on-classes-for-executive-and-othe/12077
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for the University Executive Board (ÜYK) to convene to a
+ pprove the international undergraduate admission decisions for the second 
+ application period.
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260926T154212Z
+UID:boun-13960@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board
+ -u/13960
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -the-university-executive-board-u/13960
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for the Admissions Commission to convene to review the in
+ ternational undergraduate admission decisions for the second application p
+ eriod.
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260926T154212Z
+UID:boun-13959@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-the-admissions-commission-to-c
+ on/13959
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -the-admissions-commission-to-con/13959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFL Summer Term Program I-II classes end
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20260926T154212Z
+UID:boun-12073@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/sfl-summer-term-program-i-ii-classes-end/12073
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-t
+ erm-program-i-ii-classes-end/12073
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students admitted off the wait-list to major 
+ and minor programs to the Faculty Student Affairs officers
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20260926T154212Z
+UID:boun-12072@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-
+ th/12072
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-admitted-off-th/12072
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students who have been accepted as internal t
+ ransfer students from the wait list to the Faculty Student Affairs officer
+ s for department change.
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20260926T154212Z
+UID:boun-12070@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/application-date-for-students-who-have-been
+ -a/12070
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-who-have-been-a/12070
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration day for students accepted from the wait list through 
+ external transfer
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20260926T154212Z
+UID:boun-12071@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from
+ -t/12071
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -day-for-students-accepted-from-t/12071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students admitted off the main list to major 
+ and minor programs to the Faculty Student Affairs officers
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+DTSTAMP:20260926T154212Z
+UID:boun-12069@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-
+ th/12069
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-admitted-off-th/12069
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration day for students accepted from the main list through 
+ external transfer
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+DTSTAMP:20260926T154212Z
+UID:boun-12068@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from
+ -t/12068
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -day-for-students-accepted-from-t/12068
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application date for students who have been accepted as internal t
+ ransfer students from the main list to the Faculty Student Affairs officer
+ s for department change.
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+DTSTAMP:20260926T154212Z
+UID:boun-12067@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/application-date-for-students-who-have-been
+ -a/12067
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-
+ date-for-students-who-have-been-a/12067
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration of students admitted through the first application pe
+ riod for international undergraduate admissions for the 2026–2027 Academ
+ ic Year.
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260807
+DTSTAMP:20260926T154212Z
+UID:boun-13958@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/registration-of-students-admitted-through-t
+ he/13958
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -of-students-admitted-through-the/13958
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transfer Applications with Central Points
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20260926T154212Z
+UID:boun-12066@bogazici.edu.tr
+DESCRIPTION:Category: Admission\nDetails: https://akademiktakvim.bogazici.
+ edu.tr/en/events/akademik/transfer-applications-with-central-points/12066
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-app
+ lications-with-central-points/12066
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Course Evaluations Period Summer Term (Included SFL)
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260926T154212Z
+UID:boun-12065@bogazici.edu.tr
+DESCRIPTION:Category: SFL\nDetails: https://akademiktakvim.bogazici.edu.tr
+ /en/events/akademik/course-evaluations-period-summer-term-include/12065
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalu
+ ations-period-summer-term-include/12065
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for course withdrawals for Executive and Other
+  Graduate Programs Summer Session closes to advisors (23:59)
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20260926T154212Z
+UID:boun-12064@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-course-withdrawals-fo
+ /12064
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-course-withdrawals-fo/12064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system for course withdrawals for Executive and Other
+  Graduate Programs Summer Session closes to students (19:00)
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20260926T154212Z
+UID:boun-12063@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-for-course-withdrawals-fo
+ /12063
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-for-course-withdrawals-fo/12063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties to submit the international undergraduate a
+ dmission decisions for the second application period to the Rectorate.
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20260926T154212Z
+UID:boun-13957@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-faculties-to-submit-the-intern
+ at/13957
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -faculties-to-submit-the-internat/13957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Faculties to send admission decisions on internal tra
+ nsfer\, external transfer\, double-major and minor to the Faculty Student 
+ Affairs officers and Registrar.
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+DTSTAMP:20260926T154212Z
+UID:boun-12062@bogazici.edu.tr
+DESCRIPTION:Category: Administrative\nDetails: https://akademiktakvim.boga
+ zici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-de
+ ci/12062
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for
+ -faculties-to-send-admission-deci/12062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Course withdrawals for Executive and Other Graduate Programs Summe
+ r Session
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20260926T154212Z
+UID:boun-12060@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/course-withdrawals-for-executive-and-other-gr
+ /12060
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withd
+ rawals-for-executive-and-other-gr/12060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registration system opens for course withdrawals for Executive and
+  Other Graduate Programs Summer Session (10:00)
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+DTSTAMP:20260926T154212Z
+UID:boun-12061@bogazici.edu.tr
+DESCRIPTION:Category: Registration\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/registration-system-opens-for-course-withdraw
+ /12061
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration
+ -system-opens-for-course-withdraw/12061
+END:VEVENT
+END:VCALENDAR
