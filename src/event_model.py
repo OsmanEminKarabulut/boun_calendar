@@ -1,7 +1,7 @@
 from datetime import datetime
 
 class EventModel:
-    def __init__(self, id, adi, start_date, end_date, is_all_day, kategori_adi, link, kulup):
+    def __init__(self, id, adi, start_date, end_date, is_all_day, kategori_adi, link, kulup, kat_id):
         self.id = id
         self.adi = adi
         self.start_date = start_date
@@ -10,6 +10,7 @@ class EventModel:
         self.kategori_adi = kategori_adi
         self.link = link
         self.kulup = kulup
+        self.kat_id = kat_id
 
 #To get only useful parts of the json and return an EventModel
 def jsonToEventModel(json):
@@ -22,4 +23,5 @@ def jsonToEventModel(json):
         json["kategoriadi"],
         json["link"],
         json["kulup"],
+        json["kat_id"]
     )

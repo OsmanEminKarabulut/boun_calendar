@@ -1,7 +1,7 @@
 # Boğaziçi Academic Calendar Sync 🗓️
 
-Automated iCalendar (`.ics`) feed for Boğaziçi University's official academic calendar.  
-*Boğaziçi Üniversitesi resmi akademik takvimi için otomatik senkronize edilen iCalendar (`.ics`) beslemesi.*
+Automated iCalendar (`.ics`) feed for Boğaziçi University's official academic calendar and YADYOK (School of Foreign Languages) preparatory school calendar.  
+*Boğaziçi Üniversitesi resmi akademik takvimi ve YADYOK (Yabancı Diller Yüksekokulu) hazırlık takvimi için otomatik senkronize edilen iCalendar (`.ics`) beslemesi.*
 
 [![Update Academic Calendar](https://github.com/OsmanEminKarabulut/boun_calendar/actions/workflows/update_calendar.yml/badge.svg)](https://github.com/OsmanEminKarabulut/boun_calendar/actions/workflows/update_calendar.yml)
 
@@ -14,16 +14,26 @@ Automated iCalendar (`.ics`) feed for Boğaziçi University's official academic 
 
 ### Subscription URLs
 
-Choose your preferred language and copy the URL to subscribe in your calendar application (Google Calendar, Apple Calendar, Outlook):
+Choose your preferred calendar and language, then copy the URL to subscribe in your calendar application (Google Calendar, Apple Calendar, Outlook):
 
+#### 📚 General Academic Calendar (All University)
 - **English Calendar (🇬🇧):**
   ```text
   https://raw.githubusercontent.com/OsmanEminKarabulut/boun_calendar/main/dist/calendars/boun_en_calendar.ics
   ```
-
 - **Turkish Calendar (🇹🇷):**
   ```text
   https://raw.githubusercontent.com/OsmanEminKarabulut/boun_calendar/main/dist/calendars/boun_calendar.ics
+  ```
+
+#### 🎓 SFL / Preparatory School Calendar (YADYOK Only)
+- **English SFL Calendar (🇬🇧):**
+  ```text
+  https://raw.githubusercontent.com/OsmanEminKarabulut/boun_calendar/main/dist/calendars/boun_en_yadyok_calendar.ics
+  ```
+- **Turkish YADYOK Calendar (🇹🇷):**
+  ```text
+  https://raw.githubusercontent.com/OsmanEminKarabulut/boun_calendar/main/dist/calendars/boun_tr_yadyok_calendar.ics
   ```
 
 ### How to Subscribe
@@ -34,6 +44,7 @@ Choose your preferred language and copy the URL to subscribe in your calendar ap
 
 ### Features
 
+- **General & YADYOK Feeds:** Subscribe either to the complete university academic calendar or exclusively to the School of Foreign Languages (SFL / Hazırlık) calendar.
 - **Multi-Language Feeds:** Native Turkish and English feeds synchronized directly from the official university system.
 - **Daily Auto-Sync:** Automated via GitHub Actions to track official calendar updates daily.
 - **RFC 5545 Compliant:** All-day events properly follow the exclusive end-date specification, with full event descriptions and category labels.
@@ -46,16 +57,26 @@ Choose your preferred language and copy the URL to subscribe in your calendar ap
 
 ### Abonelik Linkleri
 
-Tercih ettiğiniz dilin bağlantısını kopyalayarak takvim uygulamanıza (Google Takvim, Apple Takvim, Outlook) abone olabilirsiniz:
+Takvim uygulamanıza (Google Takvim, Apple Takvim, Outlook) eklemek için ilgili takvim ve dil bağlantısını kopyalayın:
 
+#### 📚 Genel Akademik Takvim (Tüm Üniversite)
 - **Türkçe Takvim (🇹🇷):**
   ```text
   https://raw.githubusercontent.com/OsmanEminKarabulut/boun_calendar/main/dist/calendars/boun_calendar.ics
   ```
-
 - **İngilizce Takvim (🇬🇧):**
   ```text
   https://raw.githubusercontent.com/OsmanEminKarabulut/boun_calendar/main/dist/calendars/boun_en_calendar.ics
+  ```
+
+#### 🎓 YADYOK / Hazırlık Okulu Takvimi (Sadece Hazırlık)
+- **Türkçe YADYOK Takvimi (🇹🇷):**
+  ```text
+  https://raw.githubusercontent.com/OsmanEminKarabulut/boun_calendar/main/dist/calendars/boun_tr_yadyok_calendar.ics
+  ```
+- **İngilizce SFL Takvimi (🇬🇧):**
+  ```text
+  https://raw.githubusercontent.com/OsmanEminKarabulut/boun_calendar/main/dist/calendars/boun_en_yadyok_calendar.ics
   ```
 
 ### Nasıl Abone Olunur?
@@ -66,6 +87,7 @@ Tercih ettiğiniz dilin bağlantısını kopyalayarak takvim uygulamanıza (Goog
 
 ### Özellikler
 
+- **Genel & YADYOK Seçeneği:** İster tüm üniversite takvimine, istersen sadece Yabancı Diller Yüksekokulu (YADYOK / Hazırlık) takvimine abone olma imkanı.
 - **Çift Dil Desteği:** Resmi üniversite sisteminden doğrudan çekilen Türkçe ve İngilizce takvim akışları.
 - **Günlük Otomatik Senkronizasyon:** GitHub Actions ile her gün resmi takvim değişiklikleri otomatik takip edilir.
 - **RFC 5545 Standartlarına Tam Uyum:** Tüm gün etkinlikleri, açıklamalar ve kategori etiketleri standartlara uygun olarak üretilir.
