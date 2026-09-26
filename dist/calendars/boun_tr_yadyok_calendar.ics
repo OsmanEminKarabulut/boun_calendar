@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bogazici Calendar//bogazici.edu.tr//
+X-WR-CALNAME:Boğaziçi Üniversitesi YADYOK Akademik Takvimi
+X-WR-TIMEZONE:Europe/Istanbul
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Ö
+ ğrenci İşleri Daire Başkanlığı'na bildirilmesi için son gün
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+DTSTAMP:20260926T161846Z
+UID:boun-13457@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/1345
+ 7
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-i
+ ngilizce-yeterlik-sinavi-buept-so/13457
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+DTSTAMP:20260926T161846Z
+UID:boun-13447@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/13447
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-i
+ ngilizce-yeterlik-sinavi-buept/13447
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260926T161846Z
+UID:boun-13443@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1344
+ 3
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi 
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260926T161846Z
+UID:boun-13402@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1340
+ 2
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanma
+ sı
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DTSTAMP:20260926T161846Z
+UID:boun-13364@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/1336
+ 4
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-sonuclarini/13364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık S
+ ınıfı için başvuru yapan adaylara)(10:00)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T161846Z
+UID:boun-13316@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/1331
+ 6
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-lisansustu-/13316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz Okulu derslerinin başlaması (tüm programlar için)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260926T161846Z
+UID:boun-13318@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-yaz-okulu-derslerinin-baslamasi-tum-pr/1331
+ 8
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-o
+ kulu-derslerinin-baslamasi-tum-pr/13318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+DTSTAMP:20260926T161846Z
+UID:boun-13297@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/13297
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingil
+ izce-yeterlik-sinavi-buept/13297
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23
+ :59)
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260926T161846Z
+UID:boun-13295@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1329
+ 5
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK derslerinin son günü (tüm programlar için) 
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260926T161846Z
+UID:boun-13293@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-derslerinin-son-gunu-tum-programlar-ic/1329
+ 3
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-dersl
+ erinin-son-gunu-tum-programlar-ic/13293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi 
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260926T161846Z
+UID:boun-13260@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1326
+ 0
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Program I derslerinin son günü
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260926T161846Z
+UID:boun-13143@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-program-i-derslerinin-son-gunu/13143
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-progr
+ am-i-derslerinin-son-gunu/13143
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23
+ :59)
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260926T161846Z
+UID:boun-13125@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1312
+ 5
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260926T161846Z
+UID:boun-13131@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/13131
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingil
+ izce-yeterlik-sinavi-buept/13131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanma
+ sı
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260926T161846Z
+UID:boun-13139@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/1313
+ 9
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-sonuclarini/13139
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Program II\, III\, IV derslerinin son günü
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260926T161846Z
+UID:boun-13123@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-program-ii-iii-iv-derslerinin-son-gunu/1312
+ 3
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-progr
+ am-ii-iii-iv-derslerinin-son-gunu/13123
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık S
+ ınıfı için başvuru yapan adaylara)(10:00)
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260926T161846Z
+UID:boun-13137@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/1313
+ 7
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-lisansustu-/13137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260926T161846Z
+UID:boun-13105@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/1310
+ 5
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazir
+ lik-okulu-ders-degerlendirme-done/13105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK derslerinin başlaması
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DTSTAMP:20260926T161846Z
+UID:boun-13031@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-derslerinin-baslamasi/13031
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-dersl
+ erinin-baslamasi/13031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanma
+ sı
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260926T161846Z
+UID:boun-13029@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/1302
+ 9
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-sonuclarini/13029
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (10:00)
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260926T161846Z
+UID:boun-13025@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-1000/13025
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey
+ -belirleme-sinavi-dbs-1000/13025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260926T161846Z
+UID:boun-12997@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-guz-ingilizce-yeterlik-sinavi-buept/12997
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-i
+ ngilizce-yeterlik-sinavi-buept/12997
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Ö
+ ğrenci İşleri Daire Başkanlığı’na bildirilmesi için son gün
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260926T161846Z
+UID:boun-9230@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/9230
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-i
+ ngilizce-yeterlik-sinavi-buept-so/9230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT)
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260926T161846Z
+UID:boun-9226@bogazici.edu.tr
+DESCRIPTION:Kategori: YADYOK\nDetaylar: https://akademiktakvim.bogazici.ed
+ u.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/9226
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-i
+ ngilizce-yeterlik-sinavi-buept/9226
+END:VEVENT
+END:VCALENDAR

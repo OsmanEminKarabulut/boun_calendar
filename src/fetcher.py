@@ -10,6 +10,8 @@ CALENDAR_OUTPUT_DIR ="dist/calendars"
 TR_HASH_FILE = os.path.join(HASH_OUTPUT_DIR, "last_tr_hash.txt")
 EN_HASH_FILE = os.path.join(HASH_OUTPUT_DIR, "last_en_hash.txt")
 ICS_FILE = os.path.join(CALENDAR_OUTPUT_DIR, "boun_calendar.ics")
+TR_YADYOK_ICS_FILE = os.path.join(CALENDAR_OUTPUT_DIR, "boun_tr_yadyok_calendar.ics")
+EN_YADYOK_ICS_FILE = os.path.join(CALENDAR_OUTPUT_DIR, "boun_en_yadyok_calendar.ics")
 EN_ICS_FILE = os.path.join(CALENDAR_OUTPUT_DIR, "boun_en_calendar.ics")
 
 #Create files if they dont exist
@@ -31,7 +33,7 @@ def save_en_hash(raw_text):
 
 #Return whether the calendar has changed
 def is_tr_cal_changed():
-    if not os.path.exists(TR_HASH_FILE) or not os.path.exists(ICS_FILE):
+    if not os.path.exists(TR_HASH_FILE) or not os.path.exists(ICS_FILE) or not os.path.exists(TR_YADYOK_ICS_FILE):
         save_tr_hash(current_tr_hash)
         return True
 
@@ -45,7 +47,7 @@ def is_tr_cal_changed():
         return False
 
 def is_en_cal_changed():
-    if not os.path.exists(EN_HASH_FILE) or not os.path.exists(EN_ICS_FILE):
+    if not os.path.exists(EN_HASH_FILE) or not os.path.exists(EN_ICS_FILE) or not os.path.exists(EN_YADYOK_ICS_FILE):
         save_en_hash(current_en_hash)
         return True
 
@@ -85,5 +87,12 @@ def get_en_events():
     events = []
     for raw_event in raw_en_events:
         if raw_event.end_date >= datetime.now() - timedelta(60):
+            events.append(raw_event)
+    return events  
+
+def get_yadyok_events(raw_events):
+    events = []
+    for raw_event in raw_events:
+        if raw_event.kat_id == "25":
             events.append(raw_event)
     return events  
